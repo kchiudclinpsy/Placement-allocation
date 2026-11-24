@@ -1,0 +1,19 @@
+option,student_id,student_name,placement_id,placement_name,specialty,preference_achieved,student_preference_score,placement_preference_score,fairness_score,travel_fit_score,total_score
+1,S001,Alice Jones,P001,CAMHS Service,CAMHS,1,100,100.0,50,50.0,92.5
+1,S002,Bob Smith,P002,Adult Mental Health Team,Adult,1,100,100.0,50,22.22,91.11
+1,S003,Carol Brown,P001,CAMHS Service,CAMHS,1,100,66.67,50,50.0,84.17
+1,S004,David Green,P003,Neuropsychology Service,Neuro,1,100,100.0,50,38.89,91.94
+1,S005,Emma White,P004,Learning Disability Team,LD,3,50,100.0,100,11.11,65.56
+1,S006,Frank Black,P002,Adult Mental Health Team,Adult,1,100,66.67,50,41.67,83.75
+2,S001,Alice Jones,P001,CAMHS Service,CAMHS,1,100,100.0,50,50.0,92.5
+2,S002,Bob Smith,P002,Adult Mental Health Team,Adult,1,100,100.0,50,22.22,91.11
+2,S003,Carol Brown,P001,CAMHS Service,CAMHS,1,100,66.67,50,50.0,84.17
+2,S004,David Green,P003,Neuropsychology Service,Neuro,1,100,100.0,50,38.89,91.94
+2,S005,Emma White,P002,Adult Mental Health Team,Adult,2,75,33.33,100,22.22,64.44
+2,S006,Frank Black,P004,Learning Disability Team,LD,4,25,66.67,50,33.33,38.33
+3,S001,Alice Jones,P004,Learning Disability Team,LD,4,25,0,50,33.33,21.67
+3,S002,Bob Smith,P002,Adult Mental Health Team,Adult,1,100,100.0,50,22.22,91.11
+3,S003,Carol Brown,P001,CAMHS Service,CAMHS,1,100,66.67,50,50.0,84.17
+3,S004,David Green,P003,Neuropsychology Service,Neuro,1,100,100.0,50,38.89,91.94
+3,S005,Emma White,P001,CAMHS Service,CAMHS,1,100,33.33,100,33.33,80.0
+3,S006,Frank Black,P002,Adult Mental Health Team,Adult,1,100,66.67,50,41.67,83.75

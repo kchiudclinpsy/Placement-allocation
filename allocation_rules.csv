@@ -1,0 +1,5 @@
+criterion,weight
+student_preference,60
+placement_preference,25
+fairness_adjustment,10
+travel_fit,5

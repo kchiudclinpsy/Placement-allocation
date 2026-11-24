@@ -1,0 +1,7 @@
+student_id,student_name,placement_id,placement_name,specialty,preference_achieved,student_preference_score,placement_preference_score,fairness_score,travel_fit_score,total_score
+S001,Alice Jones,P001,CAMHS Service,CAMHS,1,100,100.0,50,50.0,92.5
+S002,Bob Smith,P002,Adult Mental Health Team,Adult,1,100,100.0,50,22.22,91.11
+S003,Carol Brown,P001,CAMHS Service,CAMHS,1,100,66.67,50,50.0,84.17
+S004,David Green,P003,Neuropsychology Service,Neuro,1,100,100.0,50,38.89,91.94
+S005,Emma White,P004,Learning Disability Team,LD,3,50,100.0,100,11.11,65.56
+S006,Frank Black,P002,Adult Mental Health Team,Adult,1,100,66.67,50,41.67,83.75
