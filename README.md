@@ -19,7 +19,7 @@ It shows:
 
 The examples use made-up names and codes rather than real people or organisations.
 
-<img width="1024" height="572" alt="b10ff3c9-8405-4bb3-87b8-f8dc27c76f73" src="https://github.com/user-attachments/assets/ef03692e-c0be-44d1-afca-1e4cd679f587" />
+<img width="1024" height="572" alt="Making Clinical Placements Easier with Copilot" src="https://github.com/user-attachments/assets/ef03692e-c0be-44d1-afca-1e4cd679f587" />
 
 ## Why does it exist?
 
@@ -32,6 +32,26 @@ The project is intended to help people learn and discuss:
 - how decisions could be recorded clearly.
 
 The project provides a demonstration, not a working system for real clinical training.
+
+## Exemplar prompts for the four steps
+
+These prompts show how an audience might work through the placement-allocation process with Copilot. Replace the fictional details with anonymised, approved training data only. Never paste personal, medical or identifiable trainee information into a prompt.
+
+### 1. Explain the rules to Copilot
+
+> “Act as a placement-process facilitator. Read the synthetic data and policy files in this repository, especially `trainees.csv`, `placement_offers.csv`, `allocation_policy.csv` and `DATA_DICTIONARY.md`. Explain the allocation rules in plain English under these headings: hard constraints that must be met; soft factors used for ranking; specialist preferences for placements 5 and 6; review triggers; and information that must remain out of the allocation dataset. Use only the supplied files and flag any ambiguity rather than inventing a rule.”
+
+### 2. Ask AI to build the matcher
+
+> “Using only the synthetic repository files, help me run a safe simulation of the placement matcher. Identify the required inputs, validate the data against `allocation_policy.csv`, and explain the constraints before generating results. Do not allocate real people or use personal or medical details. Produce a demonstration recommendation, at least two alternative allocations, and an audit trail showing which rules affected each allocation.”
+
+### 3. Configure the placement programme
+
+> “Configure the demonstration for three cohorts, each with 50 synthetic trainees, two placements per year, and six placements in total. Set core placements 1 to 4 to prioritise competency need, breadth, sequencing, geography and placement quality. Consider ranked specialist preferences only for placements 5 and 6, after essential eligibility and training requirements have been met. Include capacity, supervisor approval, reasonable-adjustment constraints and human-review flags. Refine the configuration with a list of assumptions for a reviewer to confirm.”
+
+### 4. Review results and perform a human sense-check
+
+> “Review the synthetic allocation outputs without approving them automatically. Explain why each sample recommendation was made, highlight the factors that supported or limited it, compare the alternative options, and identify placements requiring human review. Check for clinical safety, supervision, trainee-stage eligibility, travel or adjustment concerns, quality alerts and unusual or repeated outcomes. Use a table with: recommendation, evidence, uncertainty, review question and suggested reviewer action. State clearly that final decisions require named human oversight.”
 
 ## Start with the example workbook
 
