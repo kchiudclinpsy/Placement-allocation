@@ -1,113 +1,151 @@
 # Placement Allocation Tool — Educational Demonstration
 
-> **Educational and training demonstration only**
+> **This repository is for education and training only.**
 >
-> This repository is a synthetic proof of concept for educational and training purposes. It has **never been used** to allocate real trainee placements or to make decisions about real people. The data, outputs and recommendations are demonstration artifacts only and must not be used for operational allocation or clinical decision-making.
+> It contains synthetic (made-up) examples. It has **never been used** to allocate real trainee placements or make decisions about real people. It must not be used for real placement or clinical decisions.
 
-This organisation-neutral toolkit models three concurrent cohorts of 50 trainees. Each trainee completes two placements per year over three years, giving six placement episodes per trainee and 900 synthetic allocation records.
+## What is this project?
 
-<img width="1024" height="572" alt="b10ff3c9-8405-4bb3-87b8-f8dc27c76f73" src="https://github.com/user-attachments/assets/906ed722-b14d-4567-b21c-bfc4f8994621" />
+This project demonstrates how a placement process might be organised for 150 fictional trainees.
 
-## Start here
+It shows:
 
-Open `editable_longitudinal_allocation_dashboard.xlsx`.
+- 3 fictional training cohorts;
+- 50 trainees in each cohort;
+- 2 placements in each training year;
+- 3 years of training;
+- 6 placements per trainee;
+- 900 fictional placement records in total.
 
-The workbook contains:
+The examples use made-up names and codes rather than real people or organisations.
 
-- an executive dashboard;
-- 900 editable allocation decisions;
-- the recommendation and full decision basis for every placement episode;
-- competency, breadth, sequence, provider, adjustment, travel and fairness scores;
-- human-review flags;
-- controlled override fields with dropdown lists;
-- a full six-placement journey for every trainee;
-- a decision-criteria sheet explaining hard constraints and weights.
+## Why does it exist?
 
-Yellow cells in `Allocation_Decisions` are intended for reviewer editing:
+The project is intended to help people learn and discuss:
 
-- `Override_Placement`
-- `Override_Reason`
-- `Approval_Status`
-- `Reviewer_Comment`
+- how placement choices might be organised;
+- how fairness and training needs could be considered;
+- how reviewers might check and question a recommendation;
+- how sensitive information could be kept separate;
+- how decisions could be recorded clearly.
 
-`Final_Placement` changes automatically when an override is entered, while preserving the original recommendation.
+The project provides a demonstration, not a working system for real clinical training.
 
-## Organisation-neutral operational templates
+## Start with the example workbook
 
-The `organisation_neutral_templates` folder contains:
+Open:
 
-- `trainees.csv`
-- `placement_offers.csv`
-- `placement_capabilities.csv`
-- `placement_history.csv`
-- `competency_status.csv`
-- `specialist_preferences.csv`
-- `review_flags.csv`
-- `allocation_policy.csv`
-- `validate_real_use.py`
-- `readiness_report.csv`
-- `DATA_DICTIONARY.md`
-- detailed operational `README.md`
+`editable_longitudinal_allocation_dashboard.xlsx`
 
-The templates use pseudonymous IDs and generic codes. They contain no organisation names, partner names, locations, personal names, logos, URLs or internal system names.
+The workbook provides a visual example of:
 
-## Demonstration data
+- an executive summary;
+- 900 fictional allocation records;
+- a recommendation for each placement;
+- reasons and information behind each recommendation;
+- reviewer questions and flags;
+- areas where a reviewer could enter an alternative decision;
+- the full placement journey for each fictional trainee.
 
-The `longitudinal_demo_outputs` folder contains synthetic outputs for:
+### Yellow boxes
+
+In the `Allocation_Decisions` sheet, yellow boxes are intended for reviewer examples:
+
+- `Override_Placement` — record an alternative choice;
+- `Override_Reason` — explain why;
+- `Approval_Status` — show the example approval outcome;
+- `Reviewer_Comment` — add a note.
+
+The workbook keeps the original recommendation visible and shows whether a reviewer changed it.
+
+## What information is used in the example?
+
+The demonstration uses broad, coded information rather than personal or medical details.
+
+It considers factors such as:
+
+- which skills a trainee still needs to develop;
+- whether training experiences are varied;
+- which stage of training the trainee has reached;
+- whether a placement and supervisor are available;
+- whether required supervision and support are present;
+- travel needs and accessibility adjustments;
+- fairness across the trainee's pathway;
+- placement quality;
+- advisor-approved specialist preferences, where relevant.
+
+Core placements focus mainly on training needs. Specialist preferences are considered only for placements 5 and 6 and only after essential requirements have been met.
+
+## How are the example files organised?
+
+The `organisation_neutral_templates` folder contains example data and documents:
+
+- trainee records;
+- placement offers;
+- placement skills and opportunities;
+- previous placement information;
+- competency information;
+- specialist preferences;
+- review flags;
+- allocation rules;
+- a validation script;
+- a data dictionary;
+- an operational guidance document.
+
+These files use pseudonymous IDs and generic codes. They do not contain real organisation names, locations, personal names or links to internal systems.
+
+## Demonstration outputs
+
+The `longitudinal_demo_outputs` folder contains synthetic examples showing:
 
 - 3 cohorts;
 - 50 trainees per cohort;
 - 6 placements per trainee;
-- 900 allocation episodes.
+- 900 fictional allocation episodes.
 
-These demonstrate the structure only and are not intended as performance benchmarks or for real-world allocation.
+These outputs show the structure of the demonstration. They are not results that indicate performance or should be used as a benchmark.
 
-## Regenerate the demonstration
+## How to recreate the demonstration
 
-Install dependencies:
+### 1. Install the required software
+
+Open a terminal and run:
 
 ```bash
 python -m pip install -r requirements.txt
 ```
 
-Create the longitudinal demonstration:
+### 2. Create the sample data
 
 ```bash
 python longitudinal_3cohort_demo.py
 ```
 
-Rebuild the editable Excel dashboard:
+### 3. Create the example workbook
 
 ```bash
 python create_editable_allocation_workbook.py
 ```
 
-## Operational decision logic
+You do not need to understand the underlying code to explore the Excel workbook.
 
-### Hard constraints
+## Important limitations
 
-- one placement per trainee per rotation;
-- no placement or supervisor capacity breach;
-- offer and supervisor approved for the exact rotation;
-- required supervision and contingency cover confirmed;
-- stage eligibility and prerequisites satisfied;
-- adjustment and travel constraints satisfied;
-- suspended or unsafe offers excluded;
-- unresolved safety and quality cases routed to human review.
+- All data is fictional.
+- The recommendations are examples, not decisions.
+- The project has never been used for real placement allocation.
+- A named human reviewer would be required for any real process.
+- Real people and real placements require properly governed policies, systems and professional oversight.
 
-### Soft objectives
+## Human review and safety
 
-- outstanding competency need;
-- breadth across client group, setting, presentation, approach and assessment;
-- developmental sequence;
-- travel burden;
-- cumulative fairness;
-- placement quality;
-- provider preference;
-- advisor-reviewed trainee preference for specialist placements.
+The project does not approve placements automatically.
 
-Core placements should remain competency-led. Specialist preferences should only be scored after hard constraints have passed.
+Reviewers should:
 
-## Governance
-
-The optimizer provides decision support, not automatic approval. Reviewers should record overrides and reasons in the workbook. Detailed health information, diagnoses, clinical narratives and personal data should not be entered into the demonstration workbook or operational allocation files.
+- read the reasons for each recommendation;
+- check whether essential requirements are satisfied;
+- consider safety and training quality;
+- record any alternative choice;
+- explain every override;
+- keep personal and medical information out of allocation files.
