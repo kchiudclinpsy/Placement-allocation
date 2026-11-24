@@ -1,89 +1,107 @@
-# Placement Allocation Toolkit
+# Updated Longitudinal Placement Allocation Tool
 
-## Dummy guide: one folder, Excel files, and one script
+This organisation-neutral toolkit models three concurrent cohorts of 50 trainees. Each trainee completes two placements per year over three years, giving six placement episodes per trainee and 900 allocation episodes across a full pathway.
 
-You can use this toolkit with one working folder containing:
+## Start here
 
-1. Your Excel-compatible placement files (`.xlsx` or `.csv` exports)
-2. The Python script
-3. A folder for the generated outputs
+Open `editable_longitudinal_allocation_dashboard.xlsx`.
 
-No website setup or database is required.
+The workbook contains:
 
-```text
-placement-demo/
-├── students.xlsx
-├── placements.xlsx
-├── placement_preferences.xlsx
-├── allocation_rules.xlsx
-├── allocate.py
-└── outputs/
-```
+- an executive dashboard;
+- 900 editable allocation decisions;
+- the recommendation and full decision basis for every placement episode;
+- competency, breadth, sequence, provider, adjustment, travel and fairness scores;
+- human-review flags;
+- controlled override fields with dropdown lists;
+- a full six-placement journey for every trainee;
+- a decision-criteria sheet explaining hard constraints and weights.
 
-Excel is only for preparing and reviewing the input data. The script reads the files, validates them, creates the allocation results, and generates the visual summary.
+Yellow cells in `Allocation_Decisions` are intended for reviewer editing:
 
-## Quick start
+- `Override_Placement`
+- `Override_Reason`
+- `Approval_Status`
+- `Reviewer_Comment`
 
-1. Put all Excel files and `allocate.py` in the same folder.
-2. Open a terminal in that folder.
-3. Install the requirements:
+`Final_Placement` changes automatically when an override is entered, while preserving the original recommendation.
+
+## Organisation-neutral operational templates
+
+The `organisation_neutral_templates` folder contains:
+
+- `trainees.csv`
+- `placement_offers.csv`
+- `placement_capabilities.csv`
+- `placement_history.csv`
+- `competency_status.csv`
+- `specialist_preferences.csv`
+- `review_flags.csv`
+- `allocation_policy.csv`
+- `validate_real_use.py`
+- `readiness_report.csv`
+- `DATA_DICTIONARY.md`
+- detailed operational `README.md`
+
+The templates use pseudonymous IDs and generic codes. They contain no organisation names, partner names, locations, personal names, logos, URLs or internal system names.
+
+## Demonstration data
+
+The `longitudinal_demo_outputs` folder contains synthetic outputs for:
+
+- 3 cohorts;
+- 50 trainees per cohort;
+- 6 placements per trainee;
+- 900 allocation episodes.
+
+These demonstrate the structure only and are not intended as performance benchmarks.
+
+## Regenerate the demonstration
+
+Install dependencies:
 
 ```bash
 python -m pip install -r requirements.txt
 ```
 
-4. Run the script:
+Create the longitudinal demonstration:
 
 ```bash
-python allocate.py --input-dir . --output-dir outputs --options 3
+python longitudinal_3cohort_demo.py
 ```
 
-5. Generate the visual summary:
+Rebuild the editable Excel dashboard:
 
 ```bash
-python generate_visual_summary.py --output-dir outputs
+python create_editable_allocation_workbook.py
 ```
 
-6. Open `outputs/visual_summary.html` in a browser.
+## Operational decision logic
 
-## What the script generates
+### Hard constraints
 
-- A visual summary of the validation status and allocation options
-- A recommended allocation option
-- Alternative allocation options
-- CSV audit and result files
-- A print-friendly HTML report
+- one placement per trainee per rotation;
+- no placement or supervisor capacity breach;
+- offer and supervisor approved for the exact rotation;
+- required supervision and contingency cover confirmed;
+- stage eligibility and prerequisites satisfied;
+- adjustment and travel constraints satisfied;
+- suspended or unsafe offers excluded;
+- unresolved safety and quality cases routed to human review.
 
-The visual summary is generated locally and contains no external scripts, fonts, or network calls.
+### Soft objectives
 
-## Dummy Excel file names
+- outstanding competency need;
+- breadth across client group, setting, presentation, approach and assessment;
+- developmental sequence;
+- travel burden;
+- cumulative fairness;
+- placement quality;
+- provider preference;
+- advisor-reviewed trainee preference for specialist placements.
 
-The example data can use these dummy names:
+Core placements should remain competency-led. Specialist preferences should only be scored after hard constraints have passed.
 
-| File | Purpose |
-|---|---|
-| `students.xlsx` | Student details and placement preferences |
-| `placements.xlsx` | Available placement sites and capacity |
-| `placement_preferences.xlsx` | Student ranking of placement options |
-| `allocation_rules.xlsx` | Scoring and allocation weights |
+## Governance
 
-Your real filenames can differ if you update the script settings or use the expected CSV exports.
-
-## Workflow
-
-```text
-Excel files
-    ↓
-One Python script
-    ↓
-Validation and allocation
-    ↓
-CSV results + visual HTML summary
-```
-
-## Notes
-
-- Keep a backup copy of the original Excel files.
-- Review the validation report before accepting a result.
-- The visual summary supports decision-making; a human reviewer should document the final choice.
-- Do not include sensitive student information in a public repository.
+The optimizer provides decision support, not automatic approval. Reviewers should record overrides and reasons in the workbook. Detailed health information, diagnoses, clinical narratives and personally identifying information must remain outside the allocation dataset in appropriately controlled systems.

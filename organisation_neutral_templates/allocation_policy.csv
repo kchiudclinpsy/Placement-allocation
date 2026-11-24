@@ -1,0 +1,11 @@
+policy_version,rule_id,stage,rule_type,criterion,weight,enabled
+1.0,H01,All,Hard,approved_offer,,Yes
+1.0,H02,All,Hard,supervision_minimum,,Yes
+1.0,H03,All,Hard,competency_prerequisite,,Yes
+1.0,S01,All,Soft,competency_need,30,Yes
+1.0,S02,All,Soft,breadth,20,Yes
+1.0,S03,All,Soft,geography_travel,15,Yes
+1.0,S04,All,Soft,developmental_sequence,10,Yes
+1.0,S05,All,Soft,placement_quality,10,Yes
+1.0,S06,All,Soft,provider_preference,5,Yes
+1.0,S07,All,Soft,cumulative_fairness,10,Yes

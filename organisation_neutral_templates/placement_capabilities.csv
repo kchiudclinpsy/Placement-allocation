@@ -1,0 +1,6 @@
+placement_id,capability_type,capability_code,opportunity_strength
+PL001,ClientGroup,WORKING_AGE_ADULT,Substantial
+PL001,Setting,COMMUNITY,Substantial
+PL001,CoreCompetency,ASSESSMENT,Substantial
+PL001,CoreCompetency,FORMULATION,Substantial
+PL001,CoreCompetency,INTERVENTION,Substantial

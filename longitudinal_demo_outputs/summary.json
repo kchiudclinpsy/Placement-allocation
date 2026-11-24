@@ -1,0 +1,12 @@
+{
+  "trainees": 150,
+  "allocation_episodes": 900,
+  "periods": 6,
+  "cohorts": 3,
+  "placements_per_trainee": 6,
+  "first_choice": 660,
+  "top_two": 842,
+  "unique_six": 150,
+  "mean_score": 57.31,
+  "breaches": 0
+}

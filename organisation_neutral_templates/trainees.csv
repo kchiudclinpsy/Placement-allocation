@@ -1,0 +1,2 @@
+trainee_id,cohort_id,training_year,next_placement_number,base_code,home_zone_code,driving_access,max_commute_minutes,working_pattern_code,allocation_status
+C01-T001,C01,1,1,B01,Z01,Yes,90,FT,Active

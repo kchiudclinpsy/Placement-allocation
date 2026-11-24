@@ -1,0 +1,2 @@
+offer_id,placement_id,rotation_id,capacity,base_code,site_zone_code,placement_stage,approved,quality_status,supervisor_approved,supervisor_training_valid_to,weekly_supervision_minutes,weekly_contact_minutes,cover_arrangement_confirmed,travel_required,pool_vehicle_available
+O001,PL001,2027-R1,1,B01,Z02,Core1,Yes,Green,Yes,2029-12-31,90,180,Yes,Yes,No

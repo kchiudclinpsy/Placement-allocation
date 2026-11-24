@@ -1,0 +1,901 @@
+cohort,student_id,period,year,rotation,placement_code,placement_stream,preference_rank,preference_score,breadth_score,stage_score,provider_score,adjustment_score,total_score
+Cohort 1,C1-T01,Y1R1,1,1,OLDER,Older people,1,95,15,0,15,0,60.75
+Cohort 1,C1-T02,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,14,0,61.45
+Cohort 1,C1-T03,Y1R1,1,1,OLDER,Older people,1,95,15,0,15,0,60.75
+Cohort 1,C1-T04,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,10,0,61.05
+Cohort 1,C1-T05,Y1R1,1,1,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 1,C1-T06,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,16,0,61.65
+Cohort 1,C1-T07,Y1R1,1,1,OLDER,Older people,1,95,15,0,16,5,61.1
+Cohort 1,C1-T08,Y1R1,1,1,CAMHS,Child and family,2,80,15,8,12,0,52.25
+Cohort 1,C1-T09,Y1R1,1,1,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 1,C1-T10,Y1R1,1,1,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 1,C1-T11,Y1R1,1,1,CAMHS,Child and family,1,95,15,8,13,0,61.35
+Cohort 1,C1-T12,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 1,C1-T13,Y1R1,1,1,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 1,C1-T14,Y1R1,1,1,CAMHS,Child and family,1,95,15,8,16,0,61.65
+Cohort 1,C1-T15,Y1R1,1,1,HEALTH,Health psychology,1,95,15,0,14,0,60.65
+Cohort 1,C1-T16,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,15,0,61.55
+Cohort 1,C1-T17,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,14,0,61.45
+Cohort 1,C1-T18,Y1R1,1,1,HEALTH,Health psychology,1,95,15,0,15,0,60.75
+Cohort 1,C1-T19,Y1R1,1,1,CAMHS,Child and family,1,95,15,8,16,0,61.65
+Cohort 1,C1-T20,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,15,0,61.55
+Cohort 1,C1-T21,Y1R1,1,1,CAMHS,Child and family,1,95,15,8,15,0,61.55
+Cohort 1,C1-T22,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,16,0,61.65
+Cohort 1,C1-T23,Y1R1,1,1,OLDER,Older people,1,95,15,0,16,5,61.1
+Cohort 1,C1-T24,Y1R1,1,1,OLDER,Older people,1,95,15,0,13,0,60.55
+Cohort 1,C1-T25,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,16,0,61.65
+Cohort 1,C1-T26,Y1R1,1,1,ADULT,Adult mental health,2,80,15,8,16,0,52.65
+Cohort 1,C1-T27,Y1R1,1,1,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 1,C1-T28,Y1R1,1,1,HEALTH,Health psychology,2,80,15,0,12,0,51.45
+Cohort 1,C1-T29,Y1R1,1,1,CAMHS,Child and family,1,95,15,8,15,0,61.55
+Cohort 1,C1-T30,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 1,C1-T31,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 1,C1-T32,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,16,0,61.65
+Cohort 1,C1-T33,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,15,0,61.55
+Cohort 1,C1-T34,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,16,0,61.65
+Cohort 1,C1-T35,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,5,0,60.55
+Cohort 1,C1-T36,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,16,0,61.65
+Cohort 1,C1-T37,Y1R1,1,1,CAMHS,Child and family,1,95,15,8,12,0,61.25
+Cohort 1,C1-T38,Y1R1,1,1,CAMHS,Child and family,2,80,15,8,16,0,52.65
+Cohort 1,C1-T39,Y1R1,1,1,HEALTH,Health psychology,1,95,15,0,10,0,60.25
+Cohort 1,C1-T40,Y1R1,1,1,CAMHS,Child and family,2,80,15,8,15,0,52.55
+Cohort 1,C1-T41,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,12,5,60.7
+Cohort 1,C1-T42,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,14,0,61.45
+Cohort 1,C1-T43,Y1R1,1,1,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 1,C1-T44,Y1R1,1,1,ADULT,Adult mental health,2,80,15,8,15,0,52.55
+Cohort 1,C1-T45,Y1R1,1,1,LD,Learning disabilities,2,80,15,8,10,0,52.05
+Cohort 1,C1-T46,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,15,0,61.55
+Cohort 1,C1-T47,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,16,0,61.65
+Cohort 1,C1-T48,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,15,0,61.55
+Cohort 1,C1-T49,Y1R1,1,1,CAMHS,Child and family,1,95,15,8,15,0,61.55
+Cohort 1,C1-T50,Y1R1,1,1,HEALTH,Health psychology,1,95,15,0,15,0,60.75
+Cohort 2,C2-T01,Y1R1,1,1,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 2,C2-T02,Y1R1,1,1,OLDER,Older people,1,95,15,0,14,0,60.65
+Cohort 2,C2-T03,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,16,0,61.65
+Cohort 2,C2-T04,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,12,0,61.25
+Cohort 2,C2-T05,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,16,0,61.65
+Cohort 2,C2-T06,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T07,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,16,5,61.9
+Cohort 2,C2-T08,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T09,Y1R1,1,1,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T10,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,14,0,60.65
+Cohort 2,C2-T11,Y1R1,1,1,HEALTH,Health psychology,1,95,15,0,15,0,60.75
+Cohort 2,C2-T12,Y1R1,1,1,CAMHS,Child and family,1,95,15,8,16,0,61.65
+Cohort 2,C2-T13,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,15,0,61.55
+Cohort 2,C2-T14,Y1R1,1,1,CAMHS,Child and family,1,95,15,8,16,0,61.65
+Cohort 2,C2-T15,Y1R1,1,1,CAMHS,Child and family,1,95,15,8,16,0,61.65
+Cohort 2,C2-T16,Y1R1,1,1,CAMHS,Child and family,2,80,15,8,16,0,52.65
+Cohort 2,C2-T17,Y1R1,1,1,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T18,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T19,Y1R1,1,1,HEALTH,Health psychology,1,95,15,0,15,0,60.75
+Cohort 2,C2-T20,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,10,0,61.05
+Cohort 2,C2-T21,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T22,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,15,0,60.75
+Cohort 2,C2-T23,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,16,5,61.9
+Cohort 2,C2-T24,Y1R1,1,1,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T25,Y1R1,1,1,CAMHS,Child and family,1,95,15,8,16,0,61.65
+Cohort 2,C2-T26,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T27,Y1R1,1,1,HEALTH,Health psychology,1,95,15,0,15,0,60.75
+Cohort 2,C2-T28,Y1R1,1,1,OLDER,Older people,1,95,15,0,15,0,60.75
+Cohort 2,C2-T29,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,16,0,61.65
+Cohort 2,C2-T30,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T31,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,15,0,61.55
+Cohort 2,C2-T32,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,15,0,61.55
+Cohort 2,C2-T33,Y1R1,1,1,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 2,C2-T34,Y1R1,1,1,OLDER,Older people,1,95,15,0,12,0,60.45
+Cohort 2,C2-T35,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,14,0,61.45
+Cohort 2,C2-T36,Y1R1,1,1,HEALTH,Health psychology,2,80,15,0,16,0,51.85
+Cohort 2,C2-T37,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,14,0,61.45
+Cohort 2,C2-T38,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,11,0,61.15
+Cohort 2,C2-T39,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T40,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,15,0,60.75
+Cohort 2,C2-T41,Y1R1,1,1,CAMHS,Child and family,2,80,15,8,16,5,52.9
+Cohort 2,C2-T42,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,15,0,61.55
+Cohort 2,C2-T43,Y1R1,1,1,OLDER,Older people,1,95,15,0,15,0,60.75
+Cohort 2,C2-T44,Y1R1,1,1,CAMHS,Child and family,1,95,15,8,12,0,61.25
+Cohort 2,C2-T45,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,15,0,61.55
+Cohort 2,C2-T46,Y1R1,1,1,OLDER,Older people,1,95,15,0,15,0,60.75
+Cohort 2,C2-T47,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,9,0,60.95
+Cohort 2,C2-T48,Y1R1,1,1,OLDER,Older people,1,95,15,0,15,0,60.75
+Cohort 2,C2-T49,Y1R1,1,1,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 2,C2-T50,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T01,Y1R1,1,1,OLDER,Older people,1,95,15,0,14,0,60.65
+Cohort 3,C3-T02,Y1R1,1,1,OLDER,Older people,1,95,15,0,7,0,59.95
+Cohort 3,C3-T03,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,16,0,61.65
+Cohort 3,C3-T04,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,15,0,61.55
+Cohort 3,C3-T05,Y1R1,1,1,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T06,Y1R1,1,1,HEALTH,Health psychology,1,95,15,0,15,0,60.75
+Cohort 3,C3-T07,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,14,5,60.9
+Cohort 3,C3-T08,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,14,0,61.45
+Cohort 3,C3-T09,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,16,0,61.65
+Cohort 3,C3-T10,Y1R1,1,1,OLDER,Older people,1,95,15,0,14,0,60.65
+Cohort 3,C3-T11,Y1R1,1,1,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 3,C3-T12,Y1R1,1,1,HEALTH,Health psychology,2,80,15,0,16,0,51.85
+Cohort 3,C3-T13,Y1R1,1,1,CAMHS,Child and family,1,95,15,8,15,0,61.55
+Cohort 3,C3-T14,Y1R1,1,1,LD,Learning disabilities,2,80,15,8,16,0,52.65
+Cohort 3,C3-T15,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,15,0,60.75
+Cohort 3,C3-T16,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,16,0,61.65
+Cohort 3,C3-T17,Y1R1,1,1,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T18,Y1R1,1,1,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 3,C3-T19,Y1R1,1,1,CAMHS,Child and family,1,95,15,8,16,0,61.65
+Cohort 3,C3-T20,Y1R1,1,1,OLDER,Older people,1,95,15,0,15,0,60.75
+Cohort 3,C3-T21,Y1R1,1,1,OLDER,Older people,1,95,15,0,7,0,59.95
+Cohort 3,C3-T22,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,15,0,61.55
+Cohort 3,C3-T23,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,16,5,61.1
+Cohort 3,C3-T24,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T25,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,16,0,61.65
+Cohort 3,C3-T26,Y1R1,1,1,HEALTH,Health psychology,1,95,15,0,15,0,60.75
+Cohort 3,C3-T27,Y1R1,1,1,HEALTH,Health psychology,1,95,15,0,12,0,60.45
+Cohort 3,C3-T28,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,14,0,61.45
+Cohort 3,C3-T29,Y1R1,1,1,CAMHS,Child and family,1,95,15,8,16,0,61.65
+Cohort 3,C3-T30,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,15,0,60.75
+Cohort 3,C3-T31,Y1R1,1,1,CAMHS,Child and family,1,95,15,8,14,0,61.45
+Cohort 3,C3-T32,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T33,Y1R1,1,1,HEALTH,Health psychology,1,95,15,0,15,0,60.75
+Cohort 3,C3-T34,Y1R1,1,1,CAMHS,Child and family,1,95,15,8,15,0,61.55
+Cohort 3,C3-T35,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,15,0,61.55
+Cohort 3,C3-T36,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T37,Y1R1,1,1,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T38,Y1R1,1,1,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 3,C3-T39,Y1R1,1,1,CAMHS,Child and family,1,95,15,8,15,0,61.55
+Cohort 3,C3-T40,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,15,0,61.55
+Cohort 3,C3-T41,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,11,5,61.4
+Cohort 3,C3-T42,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T43,Y1R1,1,1,HEALTH,Health psychology,2,80,15,0,14,0,51.65
+Cohort 3,C3-T44,Y1R1,1,1,LD,Learning disabilities,1,95,15,8,16,0,61.65
+Cohort 3,C3-T45,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T46,Y1R1,1,1,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T47,Y1R1,1,1,CAMHS,Child and family,1,95,15,8,11,0,61.15
+Cohort 3,C3-T48,Y1R1,1,1,ADULT,Adult mental health,1,95,15,8,16,0,61.65
+Cohort 3,C3-T49,Y1R1,1,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T50,Y1R1,1,1,CAMHS,Child and family,2,80,15,8,16,0,52.65
+Cohort 1,C1-T01,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,14,0,60.65
+Cohort 1,C1-T02,Y1R2,1,2,ADULT,Adult mental health,1,95,15,8,11,0,61.15
+Cohort 1,C1-T03,Y1R2,1,2,LD,Learning disabilities,1,95,15,8,16,0,61.65
+Cohort 1,C1-T04,Y1R2,1,2,ADULT,Adult mental health,1,95,15,8,16,0,61.65
+Cohort 1,C1-T05,Y1R2,1,2,ADULT,Adult mental health,1,95,15,8,16,0,61.65
+Cohort 1,C1-T06,Y1R2,1,2,HEALTH,Health psychology,1,95,15,0,15,0,60.75
+Cohort 1,C1-T07,Y1R2,1,2,ADULT,Adult mental health,1,95,15,8,14,5,61.7
+Cohort 1,C1-T08,Y1R2,1,2,ADULT,Adult mental health,2,80,15,8,15,0,52.55
+Cohort 1,C1-T09,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 1,C1-T10,Y1R2,1,2,OLDER,Older people,1,95,15,0,12,0,60.45
+Cohort 1,C1-T11,Y1R2,1,2,ADULT,Adult mental health,1,95,15,8,15,0,61.55
+Cohort 1,C1-T12,Y1R2,1,2,HEALTH,Health psychology,1,95,15,0,15,0,60.75
+Cohort 1,C1-T13,Y1R2,1,2,LD,Learning disabilities,1,95,15,8,16,0,61.65
+Cohort 1,C1-T14,Y1R2,1,2,LD,Learning disabilities,1,95,15,8,12,0,61.25
+Cohort 1,C1-T15,Y1R2,1,2,LD,Learning disabilities,1,95,15,8,16,0,61.65
+Cohort 1,C1-T16,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 1,C1-T17,Y1R2,1,2,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 1,C1-T18,Y1R2,1,2,ADULT,Adult mental health,1,95,15,8,15,0,61.55
+Cohort 1,C1-T19,Y1R2,1,2,HEALTH,Health psychology,2,80,15,0,12,0,51.45
+Cohort 1,C1-T20,Y1R2,1,2,LD,Learning disabilities,1,95,15,8,16,0,61.65
+Cohort 1,C1-T21,Y1R2,1,2,OLDER,Older people,2,80,15,0,11,0,51.35
+Cohort 1,C1-T22,Y1R2,1,2,LD,Learning disabilities,1,95,15,8,16,0,61.65
+Cohort 1,C1-T23,Y1R2,1,2,LD,Learning disabilities,1,95,15,8,16,5,61.9
+Cohort 1,C1-T24,Y1R2,1,2,ADULT,Adult mental health,1,95,15,8,15,0,61.55
+Cohort 1,C1-T25,Y1R2,1,2,CAMHS,Child and family,1,95,15,8,16,0,61.65
+Cohort 1,C1-T26,Y1R2,1,2,CAMHS,Child and family,2,80,15,8,15,0,52.55
+Cohort 1,C1-T27,Y1R2,1,2,HEALTH,Health psychology,2,80,15,0,16,0,51.85
+Cohort 1,C1-T28,Y1R2,1,2,LD,Learning disabilities,2,80,15,8,15,0,52.55
+Cohort 1,C1-T29,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 1,C1-T30,Y1R2,1,2,HEALTH,Health psychology,1,95,15,0,15,0,60.75
+Cohort 1,C1-T31,Y1R2,1,2,ADULT,Adult mental health,1,95,15,8,16,0,61.65
+Cohort 1,C1-T32,Y1R2,1,2,OLDER,Older people,1,95,15,0,10,0,60.25
+Cohort 1,C1-T33,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,15,0,60.75
+Cohort 1,C1-T34,Y1R2,1,2,CAMHS,Child and family,1,95,15,8,16,0,61.65
+Cohort 1,C1-T35,Y1R2,1,2,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 1,C1-T36,Y1R2,1,2,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 1,C1-T37,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,15,0,60.75
+Cohort 1,C1-T38,Y1R2,1,2,LD,Learning disabilities,2,80,15,8,11,0,52.15
+Cohort 1,C1-T39,Y1R2,1,2,CAMHS,Child and family,1,95,15,8,16,0,61.65
+Cohort 1,C1-T40,Y1R2,1,2,HEALTH,Health psychology,3,65,15,0,16,0,42.85
+Cohort 1,C1-T41,Y1R2,1,2,OLDER,Older people,1,95,15,0,16,5,61.1
+Cohort 1,C1-T42,Y1R2,1,2,CAMHS,Child and family,1,95,15,8,16,0,61.65
+Cohort 1,C1-T43,Y1R2,1,2,OLDER,Older people,2,80,15,0,16,0,51.85
+Cohort 1,C1-T44,Y1R2,1,2,HEALTH,Health psychology,2,80,15,0,14,0,51.65
+Cohort 1,C1-T45,Y1R2,1,2,ADULT,Adult mental health,2,80,15,8,16,0,52.65
+Cohort 1,C1-T46,Y1R2,1,2,CAMHS,Child and family,1,95,15,8,16,0,61.65
+Cohort 1,C1-T47,Y1R2,1,2,CAMHS,Child and family,1,95,15,8,16,0,61.65
+Cohort 1,C1-T48,Y1R2,1,2,CAMHS,Child and family,1,95,15,8,15,0,61.55
+Cohort 1,C1-T49,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 1,C1-T50,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,13,0,60.55
+Cohort 2,C2-T01,Y1R2,1,2,CAMHS,Child and family,1,95,15,8,16,0,61.65
+Cohort 2,C2-T02,Y1R2,1,2,ADULT,Adult mental health,1,95,15,8,16,0,61.65
+Cohort 2,C2-T03,Y1R2,1,2,CAMHS,Child and family,1,95,15,8,16,0,61.65
+Cohort 2,C2-T04,Y1R2,1,2,HEALTH,Health psychology,1,95,15,0,15,0,60.75
+Cohort 2,C2-T05,Y1R2,1,2,CAMHS,Child and family,1,95,15,8,16,0,61.65
+Cohort 2,C2-T06,Y1R2,1,2,CAMHS,Child and family,1,95,15,8,15,0,61.55
+Cohort 2,C2-T07,Y1R2,1,2,LD,Learning disabilities,1,95,15,8,12,5,61.5
+Cohort 2,C2-T08,Y1R2,1,2,LD,Learning disabilities,1,95,15,8,16,0,61.65
+Cohort 2,C2-T09,Y1R2,1,2,LD,Learning disabilities,1,95,15,8,15,0,61.55
+Cohort 2,C2-T10,Y1R2,1,2,HEALTH,Health psychology,1,95,15,0,15,0,60.75
+Cohort 2,C2-T11,Y1R2,1,2,OLDER,Older people,2,80,15,0,10,0,51.25
+Cohort 2,C2-T12,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,14,0,60.65
+Cohort 2,C2-T13,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,14,0,60.65
+Cohort 2,C2-T14,Y1R2,1,2,HEALTH,Health psychology,1,95,15,0,14,0,60.65
+Cohort 2,C2-T15,Y1R2,1,2,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T16,Y1R2,1,2,ADULT,Adult mental health,2,80,15,8,15,0,52.55
+Cohort 2,C2-T17,Y1R2,1,2,CAMHS,Child and family,1,95,15,8,16,0,61.65
+Cohort 2,C2-T18,Y1R2,1,2,CAMHS,Child and family,1,95,15,8,12,0,61.25
+Cohort 2,C2-T19,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T20,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T21,Y1R2,1,2,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 2,C2-T22,Y1R2,1,2,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T23,Y1R2,1,2,CAMHS,Child and family,1,95,15,8,16,5,61.9
+Cohort 2,C2-T24,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T25,Y1R2,1,2,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 2,C2-T26,Y1R2,1,2,LD,Learning disabilities,1,95,15,8,16,0,61.65
+Cohort 2,C2-T27,Y1R2,1,2,LD,Learning disabilities,2,80,15,8,16,0,52.65
+Cohort 2,C2-T28,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,15,0,60.75
+Cohort 2,C2-T29,Y1R2,1,2,LD,Learning disabilities,1,95,15,8,15,0,61.55
+Cohort 2,C2-T30,Y1R2,1,2,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T31,Y1R2,1,2,OLDER,Older people,1,95,15,0,15,0,60.75
+Cohort 2,C2-T32,Y1R2,1,2,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 2,C2-T33,Y1R2,1,2,ADULT,Adult mental health,1,95,15,8,16,0,61.65
+Cohort 2,C2-T34,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,14,0,60.65
+Cohort 2,C2-T35,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,15,0,60.75
+Cohort 2,C2-T36,Y1R2,1,2,CAMHS,Child and family,2,80,15,8,15,0,52.55
+Cohort 2,C2-T37,Y1R2,1,2,HEALTH,Health psychology,1,95,15,0,15,0,60.75
+Cohort 2,C2-T38,Y1R2,1,2,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 2,C2-T39,Y1R2,1,2,HEALTH,Health psychology,1,95,15,0,15,0,60.75
+Cohort 2,C2-T40,Y1R2,1,2,ADULT,Adult mental health,1,95,15,8,12,0,61.25
+Cohort 2,C2-T41,Y1R2,1,2,ADULT,Adult mental health,2,80,15,8,16,5,52.9
+Cohort 2,C2-T42,Y1R2,1,2,OLDER,Older people,1,95,15,0,7,0,59.95
+Cohort 2,C2-T43,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T44,Y1R2,1,2,ADULT,Adult mental health,1,95,15,8,15,0,61.55
+Cohort 2,C2-T45,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,12,0,60.45
+Cohort 2,C2-T46,Y1R2,1,2,ADULT,Adult mental health,1,95,15,8,10,0,61.05
+Cohort 2,C2-T47,Y1R2,1,2,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T48,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,14,0,60.65
+Cohort 2,C2-T49,Y1R2,1,2,CAMHS,Child and family,1,95,15,8,16,0,61.65
+Cohort 2,C2-T50,Y1R2,1,2,LD,Learning disabilities,1,95,15,8,15,0,61.55
+Cohort 3,C3-T01,Y1R2,1,2,LD,Learning disabilities,1,95,15,8,16,0,61.65
+Cohort 3,C3-T02,Y1R2,1,2,LD,Learning disabilities,1,95,15,8,10,0,61.05
+Cohort 3,C3-T03,Y1R2,1,2,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T04,Y1R2,1,2,ADULT,Adult mental health,1,95,15,8,15,0,61.55
+Cohort 3,C3-T05,Y1R2,1,2,OLDER,Older people,1,95,15,0,15,0,60.75
+Cohort 3,C3-T06,Y1R2,1,2,CAMHS,Child and family,1,95,15,8,14,0,61.45
+Cohort 3,C3-T07,Y1R2,1,2,LD,Learning disabilities,1,95,15,8,16,5,61.9
+Cohort 3,C3-T08,Y1R2,1,2,OLDER,Older people,1,95,15,0,11,0,60.35
+Cohort 3,C3-T09,Y1R2,1,2,OLDER,Older people,2,80,15,0,16,0,51.85
+Cohort 3,C3-T10,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,12,0,60.45
+Cohort 3,C3-T11,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T12,Y1R2,1,2,CAMHS,Child and family,2,80,15,8,16,0,52.65
+Cohort 3,C3-T13,Y1R2,1,2,HEALTH,Health psychology,1,95,15,0,15,0,60.75
+Cohort 3,C3-T14,Y1R2,1,2,HEALTH,Health psychology,2,80,15,0,16,0,51.85
+Cohort 3,C3-T15,Y1R2,1,2,ADULT,Adult mental health,1,95,15,8,12,0,61.25
+Cohort 3,C3-T16,Y1R2,1,2,CAMHS,Child and family,1,95,15,8,11,0,61.15
+Cohort 3,C3-T17,Y1R2,1,2,OLDER,Older people,2,80,15,0,12,0,51.45
+Cohort 3,C3-T18,Y1R2,1,2,ADULT,Adult mental health,1,95,15,8,16,0,61.65
+Cohort 3,C3-T19,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T20,Y1R2,1,2,LD,Learning disabilities,1,95,15,8,15,0,61.55
+Cohort 3,C3-T21,Y1R2,1,2,CAMHS,Child and family,1,95,15,8,15,0,61.55
+Cohort 3,C3-T22,Y1R2,1,2,CAMHS,Child and family,1,95,15,8,15,0,61.55
+Cohort 3,C3-T23,Y1R2,1,2,ADULT,Adult mental health,1,95,15,8,16,5,61.9
+Cohort 3,C3-T24,Y1R2,1,2,LD,Learning disabilities,1,95,15,8,15,0,61.55
+Cohort 3,C3-T25,Y1R2,1,2,LD,Learning disabilities,1,95,15,8,15,0,61.55
+Cohort 3,C3-T26,Y1R2,1,2,OLDER,Older people,1,95,15,0,12,0,60.45
+Cohort 3,C3-T27,Y1R2,1,2,CAMHS,Child and family,1,95,15,8,16,0,61.65
+Cohort 3,C3-T28,Y1R2,1,2,ADULT,Adult mental health,1,95,15,8,16,0,61.65
+Cohort 3,C3-T29,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,15,0,60.75
+Cohort 3,C3-T30,Y1R2,1,2,OLDER,Older people,1,95,15,0,12,0,60.45
+Cohort 3,C3-T31,Y1R2,1,2,OLDER,Older people,2,80,15,0,16,0,51.85
+Cohort 3,C3-T32,Y1R2,1,2,ADULT,Adult mental health,1,95,15,8,15,0,61.55
+Cohort 3,C3-T33,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,15,0,60.75
+Cohort 3,C3-T34,Y1R2,1,2,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T35,Y1R2,1,2,OLDER,Older people,2,80,15,0,15,0,51.75
+Cohort 3,C3-T36,Y1R2,1,2,ADULT,Adult mental health,1,95,15,8,16,0,61.65
+Cohort 3,C3-T37,Y1R2,1,2,OLDER,Older people,1,95,15,0,11,0,60.35
+Cohort 3,C3-T38,Y1R2,1,2,HEALTH,Health psychology,2,80,15,0,16,0,51.85
+Cohort 3,C3-T39,Y1R2,1,2,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 3,C3-T40,Y1R2,1,2,ADULT,Adult mental health,1,95,15,8,11,0,61.15
+Cohort 3,C3-T41,Y1R2,1,2,HEALTH,Health psychology,1,95,15,0,15,5,61.0
+Cohort 3,C3-T42,Y1R2,1,2,HEALTH,Health psychology,2,80,15,0,16,0,51.85
+Cohort 3,C3-T43,Y1R2,1,2,LD,Learning disabilities,2,80,15,8,14,0,52.45
+Cohort 3,C3-T44,Y1R2,1,2,CAMHS,Child and family,1,95,15,8,14,0,61.45
+Cohort 3,C3-T45,Y1R2,1,2,LD,Learning disabilities,1,95,15,8,16,0,61.65
+Cohort 3,C3-T46,Y1R2,1,2,CAMHS,Child and family,1,95,15,8,12,0,61.25
+Cohort 3,C3-T47,Y1R2,1,2,NEURO,Neuropsychology,1,95,15,0,15,0,60.75
+Cohort 3,C3-T48,Y1R2,1,2,LD,Learning disabilities,1,95,15,8,11,0,61.15
+Cohort 3,C3-T49,Y1R2,1,2,OLDER,Older people,1,95,15,0,6,0,59.85
+Cohort 3,C3-T50,Y1R2,1,2,HEALTH,Health psychology,2,80,15,0,16,0,51.85
+Cohort 1,C1-T01,Y2R1,2,1,LD,Learning disabilities,1,95,15,0,15,0,60.75
+Cohort 1,C1-T02,Y2R1,2,1,OLDER,Older people,2,80,15,0,14,0,51.65
+Cohort 1,C1-T03,Y2R1,2,1,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 1,C1-T04,Y2R1,2,1,NEURO,Neuropsychology,1,95,15,0,12,0,60.45
+Cohort 1,C1-T05,Y2R1,2,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 1,C1-T06,Y2R1,2,1,NEURO,Neuropsychology,1,95,15,0,15,0,60.75
+Cohort 1,C1-T07,Y2R1,2,1,CAMHS,Child and family,1,95,15,0,14,5,60.9
+Cohort 1,C1-T08,Y2R1,2,1,OLDER,Older people,2,80,15,0,16,0,51.85
+Cohort 1,C1-T09,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,15,0,60.75
+Cohort 1,C1-T10,Y2R1,2,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 1,C1-T11,Y2R1,2,1,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 1,C1-T12,Y2R1,2,1,OLDER,Older people,2,80,15,0,14,0,51.65
+Cohort 1,C1-T13,Y2R1,2,1,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 1,C1-T14,Y2R1,2,1,OLDER,Older people,2,80,15,0,11,0,51.35
+Cohort 1,C1-T15,Y2R1,2,1,OLDER,Older people,2,80,15,0,15,0,51.75
+Cohort 1,C1-T16,Y2R1,2,1,OLDER,Older people,2,80,15,0,16,0,51.85
+Cohort 1,C1-T17,Y2R1,2,1,NEURO,Neuropsychology,2,80,15,0,16,0,51.85
+Cohort 1,C1-T18,Y2R1,2,1,CAMHS,Child and family,1,95,15,0,15,0,60.75
+Cohort 1,C1-T19,Y2R1,2,1,OLDER,Older people,3,65,15,0,16,0,42.85
+Cohort 1,C1-T20,Y2R1,2,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 1,C1-T21,Y2R1,2,1,ADULT,Adult mental health,2,80,15,0,11,0,51.35
+Cohort 1,C1-T22,Y2R1,2,1,NEURO,Neuropsychology,1,95,15,0,15,0,60.75
+Cohort 1,C1-T23,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,16,5,61.1
+Cohort 1,C1-T24,Y2R1,2,1,CAMHS,Child and family,1,95,15,0,15,0,60.75
+Cohort 1,C1-T25,Y2R1,2,1,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 1,C1-T26,Y2R1,2,1,HEALTH,Health psychology,2,80,15,0,16,0,51.85
+Cohort 1,C1-T27,Y2R1,2,1,LD,Learning disabilities,2,80,15,0,15,0,51.75
+Cohort 1,C1-T28,Y2R1,2,1,ADULT,Adult mental health,2,80,15,0,15,0,51.75
+Cohort 1,C1-T29,Y2R1,2,1,LD,Learning disabilities,1,95,15,0,15,0,60.75
+Cohort 1,C1-T30,Y2R1,2,1,LD,Learning disabilities,1,95,15,0,15,0,60.75
+Cohort 1,C1-T31,Y2R1,2,1,HEALTH,Health psychology,1,95,15,0,12,0,60.45
+Cohort 1,C1-T32,Y2R1,2,1,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 1,C1-T33,Y2R1,2,1,OLDER,Older people,2,80,15,0,14,0,51.65
+Cohort 1,C1-T34,Y2R1,2,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 1,C1-T35,Y2R1,2,1,HEALTH,Health psychology,1,95,15,0,15,0,60.75
+Cohort 1,C1-T36,Y2R1,2,1,OLDER,Older people,1,95,15,0,15,0,60.75
+Cohort 1,C1-T37,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,15,0,60.75
+Cohort 1,C1-T38,Y2R1,2,1,OLDER,Older people,2,80,15,0,16,0,51.85
+Cohort 1,C1-T39,Y2R1,2,1,LD,Learning disabilities,1,95,15,0,12,0,60.45
+Cohort 1,C1-T40,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,10,0,60.25
+Cohort 1,C1-T41,Y2R1,2,1,HEALTH,Health psychology,1,95,15,0,12,5,60.7
+Cohort 1,C1-T42,Y2R1,2,1,HEALTH,Health psychology,1,95,15,0,15,0,60.75
+Cohort 1,C1-T43,Y2R1,2,1,NEURO,Neuropsychology,3,65,15,0,15,0,42.75
+Cohort 1,C1-T44,Y2R1,2,1,LD,Learning disabilities,2,80,15,0,11,0,51.35
+Cohort 1,C1-T45,Y2R1,2,1,NEURO,Neuropsychology,2,80,15,0,9,0,51.15
+Cohort 1,C1-T46,Y2R1,2,1,HEALTH,Health psychology,1,95,15,0,14,0,60.65
+Cohort 1,C1-T47,Y2R1,2,1,HEALTH,Health psychology,1,95,15,0,12,0,60.45
+Cohort 1,C1-T48,Y2R1,2,1,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 1,C1-T49,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 1,C1-T50,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,10,0,60.25
+Cohort 2,C2-T01,Y2R1,2,1,NEURO,Neuropsychology,1,95,15,0,15,0,60.75
+Cohort 2,C2-T02,Y2R1,2,1,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 2,C2-T03,Y2R1,2,1,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 2,C2-T04,Y2R1,2,1,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 2,C2-T05,Y2R1,2,1,OLDER,Older people,1,95,15,0,14,0,60.65
+Cohort 2,C2-T06,Y2R1,2,1,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T07,Y2R1,2,1,HEALTH,Health psychology,1,95,15,0,7,5,60.2
+Cohort 2,C2-T08,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,14,0,60.65
+Cohort 2,C2-T09,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 2,C2-T10,Y2R1,2,1,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 2,C2-T11,Y2R1,2,1,NEURO,Neuropsychology,2,80,15,0,15,0,51.75
+Cohort 2,C2-T12,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,15,0,60.75
+Cohort 2,C2-T13,Y2R1,2,1,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 2,C2-T14,Y2R1,2,1,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 2,C2-T15,Y2R1,2,1,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 2,C2-T16,Y2R1,2,1,NEURO,Neuropsychology,2,80,15,0,14,0,51.65
+Cohort 2,C2-T17,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,15,0,60.75
+Cohort 2,C2-T18,Y2R1,2,1,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T19,Y2R1,2,1,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 2,C2-T20,Y2R1,2,1,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T21,Y2R1,2,1,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 2,C2-T22,Y2R1,2,1,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 2,C2-T23,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,15,5,61.0
+Cohort 2,C2-T24,Y2R1,2,1,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 2,C2-T25,Y2R1,2,1,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 2,C2-T26,Y2R1,2,1,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T27,Y2R1,2,1,NEURO,Neuropsychology,2,80,15,0,15,0,51.75
+Cohort 2,C2-T28,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,11,0,60.35
+Cohort 2,C2-T29,Y2R1,2,1,OLDER,Older people,1,95,15,0,15,0,60.75
+Cohort 2,C2-T30,Y2R1,2,1,OLDER,Older people,1,95,15,0,13,0,60.55
+Cohort 2,C2-T31,Y2R1,2,1,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T32,Y2R1,2,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T33,Y2R1,2,1,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 2,C2-T34,Y2R1,2,1,HEALTH,Health psychology,1,95,15,0,7,0,59.95
+Cohort 2,C2-T35,Y2R1,2,1,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 2,C2-T36,Y2R1,2,1,LD,Learning disabilities,2,80,15,0,15,0,51.75
+Cohort 2,C2-T37,Y2R1,2,1,LD,Learning disabilities,1,95,15,0,12,0,60.45
+Cohort 2,C2-T38,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,12,0,60.45
+Cohort 2,C2-T39,Y2R1,2,1,LD,Learning disabilities,1,95,15,0,15,0,60.75
+Cohort 2,C2-T40,Y2R1,2,1,CAMHS,Child and family,1,95,15,0,15,0,60.75
+Cohort 2,C2-T41,Y2R1,2,1,HEALTH,Health psychology,2,80,15,0,11,5,51.6
+Cohort 2,C2-T42,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,15,0,60.75
+Cohort 2,C2-T43,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,15,0,60.75
+Cohort 2,C2-T44,Y2R1,2,1,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 2,C2-T45,Y2R1,2,1,HEALTH,Health psychology,1,95,15,0,14,0,60.65
+Cohort 2,C2-T46,Y2R1,2,1,NEURO,Neuropsychology,1,95,15,0,14,0,60.65
+Cohort 2,C2-T47,Y2R1,2,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T48,Y2R1,2,1,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T49,Y2R1,2,1,LD,Learning disabilities,1,95,15,0,15,0,60.75
+Cohort 2,C2-T50,Y2R1,2,1,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T01,Y2R1,2,1,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 3,C3-T02,Y2R1,2,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T03,Y2R1,2,1,OLDER,Older people,1,95,15,0,12,0,60.45
+Cohort 3,C3-T04,Y2R1,2,1,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T05,Y2R1,2,1,NEURO,Neuropsychology,1,95,15,0,12,0,60.45
+Cohort 3,C3-T06,Y2R1,2,1,NEURO,Neuropsychology,1,95,15,0,9,0,60.15
+Cohort 3,C3-T07,Y2R1,2,1,HEALTH,Health psychology,1,95,15,0,16,5,61.1
+Cohort 3,C3-T08,Y2R1,2,1,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 3,C3-T09,Y2R1,2,1,CAMHS,Child and family,2,80,15,0,15,0,51.75
+Cohort 3,C3-T10,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 3,C3-T11,Y2R1,2,1,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T12,Y2R1,2,1,OLDER,Older people,3,65,15,0,15,0,42.75
+Cohort 3,C3-T13,Y2R1,2,1,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 3,C3-T14,Y2R1,2,1,NEURO,Neuropsychology,3,65,15,0,15,0,42.75
+Cohort 3,C3-T15,Y2R1,2,1,OLDER,Older people,1,95,15,0,13,0,60.55
+Cohort 3,C3-T16,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,15,0,60.75
+Cohort 3,C3-T17,Y2R1,2,1,CAMHS,Child and family,2,80,15,0,12,0,51.45
+Cohort 3,C3-T18,Y2R1,2,1,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T19,Y2R1,2,1,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T20,Y2R1,2,1,NEURO,Neuropsychology,2,80,15,0,16,0,51.85
+Cohort 3,C3-T21,Y2R1,2,1,NEURO,Neuropsychology,2,80,15,0,16,0,51.85
+Cohort 3,C3-T22,Y2R1,2,1,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 3,C3-T23,Y2R1,2,1,LD,Learning disabilities,1,95,15,0,15,5,61.0
+Cohort 3,C3-T24,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 3,C3-T25,Y2R1,2,1,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 3,C3-T26,Y2R1,2,1,NEURO,Neuropsychology,1,95,15,0,12,0,60.45
+Cohort 3,C3-T27,Y2R1,2,1,OLDER,Older people,2,80,15,0,16,0,51.85
+Cohort 3,C3-T28,Y2R1,2,1,CAMHS,Child and family,1,95,15,0,15,0,60.75
+Cohort 3,C3-T29,Y2R1,2,1,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T30,Y2R1,2,1,LD,Learning disabilities,1,95,15,0,12,0,60.45
+Cohort 3,C3-T31,Y2R1,2,1,HEALTH,Health psychology,2,80,15,0,6,0,50.85
+Cohort 3,C3-T32,Y2R1,2,1,LD,Learning disabilities,1,95,15,0,7,0,59.95
+Cohort 3,C3-T33,Y2R1,2,1,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 3,C3-T34,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 3,C3-T35,Y2R1,2,1,CAMHS,Child and family,2,80,15,0,16,0,51.85
+Cohort 3,C3-T36,Y2R1,2,1,LD,Learning disabilities,1,95,15,0,7,0,59.95
+Cohort 3,C3-T37,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 3,C3-T38,Y2R1,2,1,LD,Learning disabilities,2,80,15,0,15,0,51.75
+Cohort 3,C3-T39,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 3,C3-T40,Y2R1,2,1,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 3,C3-T41,Y2R1,2,1,OLDER,Older people,1,95,15,0,15,5,61.0
+Cohort 3,C3-T42,Y2R1,2,1,CAMHS,Child and family,2,80,15,0,16,0,51.85
+Cohort 3,C3-T43,Y2R1,2,1,CAMHS,Child and family,2,80,15,0,16,0,51.85
+Cohort 3,C3-T44,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 3,C3-T45,Y2R1,2,1,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 3,C3-T46,Y2R1,2,1,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 3,C3-T47,Y2R1,2,1,LD,Learning disabilities,1,95,15,0,11,0,60.35
+Cohort 3,C3-T48,Y2R1,2,1,OLDER,Older people,2,80,15,0,14,0,51.65
+Cohort 3,C3-T49,Y2R1,2,1,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 3,C3-T50,Y2R1,2,1,LD,Learning disabilities,2,80,15,0,15,0,51.75
+Cohort 1,C1-T01,Y2R2,2,2,HEALTH,Health psychology,1,95,15,0,7,0,59.95
+Cohort 1,C1-T02,Y2R2,2,2,NEURO,Neuropsychology,2,80,15,0,16,0,51.85
+Cohort 1,C1-T03,Y2R2,2,2,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 1,C1-T04,Y2R2,2,2,OLDER,Older people,2,80,15,0,15,0,51.75
+Cohort 1,C1-T05,Y2R2,2,2,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 1,C1-T06,Y2R2,2,2,OLDER,Older people,2,80,15,0,15,0,51.75
+Cohort 1,C1-T07,Y2R2,2,2,LD,Learning disabilities,1,95,15,0,16,5,61.1
+Cohort 1,C1-T08,Y2R2,2,2,LD,Learning disabilities,2,80,15,0,15,0,51.75
+Cohort 1,C1-T09,Y2R2,2,2,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 1,C1-T10,Y2R2,2,2,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 1,C1-T11,Y2R2,2,2,OLDER,Older people,2,80,15,0,15,0,51.75
+Cohort 1,C1-T12,Y2R2,2,2,LD,Learning disabilities,2,80,15,0,16,0,51.85
+Cohort 1,C1-T13,Y2R2,2,2,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 1,C1-T14,Y2R2,2,2,ADULT,Adult mental health,2,80,15,0,15,0,51.75
+Cohort 1,C1-T15,Y2R2,2,2,NEURO,Neuropsychology,2,80,15,0,16,0,51.85
+Cohort 1,C1-T16,Y2R2,2,2,CAMHS,Child and family,2,80,15,0,16,0,51.85
+Cohort 1,C1-T17,Y2R2,2,2,LD,Learning disabilities,2,80,15,0,16,0,51.85
+Cohort 1,C1-T18,Y2R2,2,2,NEURO,Neuropsychology,2,80,15,0,14,0,51.65
+Cohort 1,C1-T19,Y2R2,2,2,LD,Learning disabilities,1,95,15,0,15,0,60.75
+Cohort 1,C1-T20,Y2R2,2,2,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 1,C1-T21,Y2R2,2,2,LD,Learning disabilities,2,80,15,0,16,0,51.85
+Cohort 1,C1-T22,Y2R2,2,2,CAMHS,Child and family,1,95,15,0,15,0,60.75
+Cohort 1,C1-T23,Y2R2,2,2,HEALTH,Health psychology,1,95,15,0,10,5,60.5
+Cohort 1,C1-T24,Y2R2,2,2,HEALTH,Health psychology,1,95,15,0,12,0,60.45
+Cohort 1,C1-T25,Y2R2,2,2,NEURO,Neuropsychology,1,95,15,0,15,0,60.75
+Cohort 1,C1-T26,Y2R2,2,2,OLDER,Older people,2,80,15,0,11,0,51.35
+Cohort 1,C1-T27,Y2R2,2,2,NEURO,Neuropsychology,2,80,15,0,10,0,51.25
+Cohort 1,C1-T28,Y2R2,2,2,OLDER,Older people,3,65,15,0,16,0,42.85
+Cohort 1,C1-T29,Y2R2,2,2,HEALTH,Health psychology,1,95,15,0,15,0,60.75
+Cohort 1,C1-T30,Y2R2,2,2,OLDER,Older people,1,95,15,0,14,0,60.65
+Cohort 1,C1-T31,Y2R2,2,2,CAMHS,Child and family,1,95,15,0,15,0,60.75
+Cohort 1,C1-T32,Y2R2,2,2,HEALTH,Health psychology,1,95,15,0,14,0,60.65
+Cohort 1,C1-T33,Y2R2,2,2,HEALTH,Health psychology,2,80,15,0,12,0,51.45
+Cohort 1,C1-T34,Y2R2,2,2,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 1,C1-T35,Y2R2,2,2,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 1,C1-T36,Y2R2,2,2,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 1,C1-T37,Y2R2,2,2,OLDER,Older people,2,80,15,0,16,0,51.85
+Cohort 1,C1-T38,Y2R2,2,2,ADULT,Adult mental health,2,80,15,0,16,0,51.85
+Cohort 1,C1-T39,Y2R2,2,2,NEURO,Neuropsychology,1,95,15,0,12,0,60.45
+Cohort 1,C1-T40,Y2R2,2,2,OLDER,Older people,3,65,15,0,14,0,42.65
+Cohort 1,C1-T41,Y2R2,2,2,CAMHS,Child and family,1,95,15,0,14,5,60.9
+Cohort 1,C1-T42,Y2R2,2,2,NEURO,Neuropsychology,1,95,15,0,14,0,60.65
+Cohort 1,C1-T43,Y2R2,2,2,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 1,C1-T44,Y2R2,2,2,CAMHS,Child and family,2,80,15,0,15,0,51.75
+Cohort 1,C1-T45,Y2R2,2,2,CAMHS,Child and family,2,80,15,0,16,0,51.85
+Cohort 1,C1-T46,Y2R2,2,2,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 1,C1-T47,Y2R2,2,2,OLDER,Older people,1,95,15,0,16,0,60.85
+Cohort 1,C1-T48,Y2R2,2,2,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 1,C1-T49,Y2R2,2,2,OLDER,Older people,2,80,15,0,12,0,51.45
+Cohort 1,C1-T50,Y2R2,2,2,CAMHS,Child and family,1,95,15,0,15,0,60.75
+Cohort 2,C2-T01,Y2R2,2,2,ADULT,Adult mental health,1,95,15,0,14,0,60.65
+Cohort 2,C2-T02,Y2R2,2,2,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 2,C2-T03,Y2R2,2,2,LD,Learning disabilities,1,95,15,0,15,0,60.75
+Cohort 2,C2-T04,Y2R2,2,2,NEURO,Neuropsychology,1,95,15,0,12,0,60.45
+Cohort 2,C2-T05,Y2R2,2,2,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T06,Y2R2,2,2,OLDER,Older people,2,80,15,0,10,0,51.25
+Cohort 2,C2-T07,Y2R2,2,2,OLDER,Older people,1,95,15,0,16,5,61.1
+Cohort 2,C2-T08,Y2R2,2,2,OLDER,Older people,2,80,15,0,15,0,51.75
+Cohort 2,C2-T09,Y2R2,2,2,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T10,Y2R2,2,2,OLDER,Older people,2,80,15,0,15,0,51.75
+Cohort 2,C2-T11,Y2R2,2,2,ADULT,Adult mental health,2,80,15,0,16,0,51.85
+Cohort 2,C2-T12,Y2R2,2,2,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 2,C2-T13,Y2R2,2,2,OLDER,Older people,2,80,15,0,15,0,51.75
+Cohort 2,C2-T14,Y2R2,2,2,ADULT,Adult mental health,1,95,15,0,14,0,60.65
+Cohort 2,C2-T15,Y2R2,2,2,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 2,C2-T16,Y2R2,2,2,LD,Learning disabilities,2,80,15,0,13,0,51.55
+Cohort 2,C2-T17,Y2R2,2,2,NEURO,Neuropsychology,1,95,15,0,11,0,60.35
+Cohort 2,C2-T18,Y2R2,2,2,OLDER,Older people,1,95,15,0,15,0,60.75
+Cohort 2,C2-T19,Y2R2,2,2,ADULT,Adult mental health,1,95,15,0,10,0,60.25
+Cohort 2,C2-T20,Y2R2,2,2,LD,Learning disabilities,1,95,15,0,12,0,60.45
+Cohort 2,C2-T21,Y2R2,2,2,LD,Learning disabilities,1,95,15,0,15,0,60.75
+Cohort 2,C2-T22,Y2R2,2,2,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 2,C2-T23,Y2R2,2,2,HEALTH,Health psychology,1,95,15,0,16,5,61.1
+Cohort 2,C2-T24,Y2R2,2,2,ADULT,Adult mental health,1,95,15,0,15,0,60.75
+Cohort 2,C2-T25,Y2R2,2,2,NEURO,Neuropsychology,1,95,15,0,13,0,60.55
+Cohort 2,C2-T26,Y2R2,2,2,OLDER,Older people,2,80,15,0,15,0,51.75
+Cohort 2,C2-T27,Y2R2,2,2,CAMHS,Child and family,2,80,15,0,14,0,51.65
+Cohort 2,C2-T28,Y2R2,2,2,LD,Learning disabilities,1,95,15,0,14,0,60.65
+Cohort 2,C2-T29,Y2R2,2,2,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 2,C2-T30,Y2R2,2,2,LD,Learning disabilities,1,95,15,0,15,0,60.75
+Cohort 2,C2-T31,Y2R2,2,2,ADULT,Adult mental health,1,95,15,0,10,0,60.25
+Cohort 2,C2-T32,Y2R2,2,2,HEALTH,Health psychology,1,95,15,0,6,0,59.85
+Cohort 2,C2-T33,Y2R2,2,2,LD,Learning disabilities,1,95,15,0,14,0,60.65
+Cohort 2,C2-T34,Y2R2,2,2,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 2,C2-T35,Y2R2,2,2,CAMHS,Child and family,1,95,15,0,15,0,60.75
+Cohort 2,C2-T36,Y2R2,2,2,ADULT,Adult mental health,2,80,15,0,11,0,51.35
+Cohort 2,C2-T37,Y2R2,2,2,CAMHS,Child and family,1,95,15,0,15,0,60.75
+Cohort 2,C2-T38,Y2R2,2,2,CAMHS,Child and family,1,95,15,0,14,0,60.65
+Cohort 2,C2-T39,Y2R2,2,2,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 2,C2-T40,Y2R2,2,2,LD,Learning disabilities,1,95,15,0,14,0,60.65
+Cohort 2,C2-T41,Y2R2,2,2,NEURO,Neuropsychology,2,80,15,0,15,5,52.0
+Cohort 2,C2-T42,Y2R2,2,2,NEURO,Neuropsychology,2,80,15,0,12,0,51.45
+Cohort 2,C2-T43,Y2R2,2,2,HEALTH,Health psychology,1,95,15,0,11,0,60.35
+Cohort 2,C2-T44,Y2R2,2,2,NEURO,Neuropsychology,1,95,15,0,15,0,60.75
+Cohort 2,C2-T45,Y2R2,2,2,OLDER,Older people,2,80,15,0,14,0,51.65
+Cohort 2,C2-T46,Y2R2,2,2,CAMHS,Child and family,1,95,15,0,15,0,60.75
+Cohort 2,C2-T47,Y2R2,2,2,CAMHS,Child and family,1,95,15,0,15,0,60.75
+Cohort 2,C2-T48,Y2R2,2,2,CAMHS,Child and family,1,95,15,0,13,0,60.55
+Cohort 2,C2-T49,Y2R2,2,2,ADULT,Adult mental health,1,95,15,0,15,0,60.75
+Cohort 2,C2-T50,Y2R2,2,2,OLDER,Older people,2,80,15,0,15,0,51.75
+Cohort 3,C3-T01,Y2R2,2,2,HEALTH,Health psychology,1,95,15,0,12,0,60.45
+Cohort 3,C3-T02,Y2R2,2,2,ADULT,Adult mental health,1,95,15,0,12,0,60.45
+Cohort 3,C3-T03,Y2R2,2,2,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 3,C3-T04,Y2R2,2,2,NEURO,Neuropsychology,1,95,15,0,10,0,60.25
+Cohort 3,C3-T05,Y2R2,2,2,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 3,C3-T06,Y2R2,2,2,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 3,C3-T07,Y2R2,2,2,CAMHS,Child and family,1,95,15,0,16,5,61.1
+Cohort 3,C3-T08,Y2R2,2,2,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 3,C3-T09,Y2R2,2,2,HEALTH,Health psychology,2,80,15,0,16,0,51.85
+Cohort 3,C3-T10,Y2R2,2,2,CAMHS,Child and family,1,95,15,0,12,0,60.45
+Cohort 3,C3-T11,Y2R2,2,2,CAMHS,Child and family,1,95,15,0,14,0,60.65
+Cohort 3,C3-T12,Y2R2,2,2,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 3,C3-T13,Y2R2,2,2,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T14,Y2R2,2,2,ADULT,Adult mental health,1,95,15,0,5,0,59.75
+Cohort 3,C3-T15,Y2R2,2,2,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T16,Y2R2,2,2,NEURO,Neuropsychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T17,Y2R2,2,2,NEURO,Neuropsychology,3,65,15,0,12,0,42.45
+Cohort 3,C3-T18,Y2R2,2,2,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T19,Y2R2,2,2,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 3,C3-T20,Y2R2,2,2,ADULT,Adult mental health,2,80,15,0,14,0,51.65
+Cohort 3,C3-T21,Y2R2,2,2,HEALTH,Health psychology,2,80,15,0,12,0,51.45
+Cohort 3,C3-T22,Y2R2,2,2,OLDER,Older people,1,95,15,0,15,0,60.75
+Cohort 3,C3-T23,Y2R2,2,2,HEALTH,Health psychology,1,95,15,0,15,5,61.0
+Cohort 3,C3-T24,Y2R2,2,2,HEALTH,Health psychology,1,95,15,0,12,0,60.45
+Cohort 3,C3-T25,Y2R2,2,2,NEURO,Neuropsychology,1,95,15,0,11,0,60.35
+Cohort 3,C3-T26,Y2R2,2,2,LD,Learning disabilities,1,95,15,0,15,0,60.75
+Cohort 3,C3-T27,Y2R2,2,2,NEURO,Neuropsychology,2,80,15,0,16,0,51.85
+Cohort 3,C3-T28,Y2R2,2,2,HEALTH,Health psychology,1,95,15,0,15,0,60.75
+Cohort 3,C3-T29,Y2R2,2,2,ADULT,Adult mental health,1,95,15,0,9,0,60.15
+Cohort 3,C3-T30,Y2R2,2,2,ADULT,Adult mental health,1,95,15,0,14,0,60.65
+Cohort 3,C3-T31,Y2R2,2,2,NEURO,Neuropsychology,2,80,15,0,16,0,51.85
+Cohort 3,C3-T32,Y2R2,2,2,OLDER,Older people,1,95,15,0,14,0,60.65
+Cohort 3,C3-T33,Y2R2,2,2,ADULT,Adult mental health,1,95,15,0,6,0,59.85
+Cohort 3,C3-T34,Y2R2,2,2,NEURO,Neuropsychology,2,80,15,0,12,0,51.45
+Cohort 3,C3-T35,Y2R2,2,2,LD,Learning disabilities,2,80,15,0,14,0,51.65
+Cohort 3,C3-T36,Y2R2,2,2,HEALTH,Health psychology,1,95,15,0,12,0,60.45
+Cohort 3,C3-T37,Y2R2,2,2,CAMHS,Child and family,1,95,15,0,10,0,60.25
+Cohort 3,C3-T38,Y2R2,2,2,NEURO,Neuropsychology,2,80,15,0,16,0,51.85
+Cohort 3,C3-T39,Y2R2,2,2,HEALTH,Health psychology,1,95,15,0,16,0,60.85
+Cohort 3,C3-T40,Y2R2,2,2,HEALTH,Health psychology,1,95,15,0,9,0,60.15
+Cohort 3,C3-T41,Y2R2,2,2,CAMHS,Child and family,1,95,15,0,16,5,61.1
+Cohort 3,C3-T42,Y2R2,2,2,OLDER,Older people,3,65,15,0,16,0,42.85
+Cohort 3,C3-T43,Y2R2,2,2,ADULT,Adult mental health,2,80,15,0,16,0,51.85
+Cohort 3,C3-T44,Y2R2,2,2,NEURO,Neuropsychology,1,95,15,0,11,0,60.35
+Cohort 3,C3-T45,Y2R2,2,2,HEALTH,Health psychology,1,95,15,0,12,0,60.45
+Cohort 3,C3-T46,Y2R2,2,2,ADULT,Adult mental health,1,95,15,0,10,0,60.25
+Cohort 3,C3-T47,Y2R2,2,2,HEALTH,Health psychology,1,95,15,0,10,0,60.25
+Cohort 3,C3-T48,Y2R2,2,2,CAMHS,Child and family,2,80,15,0,16,0,51.85
+Cohort 3,C3-T49,Y2R2,2,2,HEALTH,Health psychology,1,95,15,0,15,0,60.75
+Cohort 3,C3-T50,Y2R2,2,2,ADULT,Adult mental health,2,80,15,0,16,0,51.85
+Cohort 1,C1-T01,Y3R1,3,1,CAMHS,Child and family,1,95,15,0,12,0,60.45
+Cohort 1,C1-T02,Y3R1,3,1,HEALTH,Health psychology,2,80,15,8,11,0,52.15
+Cohort 1,C1-T03,Y3R1,3,1,HEALTH,Health psychology,1,95,15,8,14,0,61.45
+Cohort 1,C1-T04,Y3R1,3,1,HEALTH,Health psychology,2,80,15,8,15,0,52.55
+Cohort 1,C1-T05,Y3R1,3,1,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 1,C1-T06,Y3R1,3,1,CAMHS,Child and family,2,80,15,0,14,0,51.65
+Cohort 1,C1-T07,Y3R1,3,1,HEALTH,Health psychology,1,95,15,8,15,5,61.8
+Cohort 1,C1-T08,Y3R1,3,1,HEALTH,Health psychology,2,80,15,8,13,0,52.35
+Cohort 1,C1-T09,Y3R1,3,1,LD,Learning disabilities,1,95,15,0,10,0,60.25
+Cohort 1,C1-T10,Y3R1,3,1,CAMHS,Child and family,1,95,15,0,15,0,60.75
+Cohort 1,C1-T11,Y3R1,3,1,NEURO,Neuropsychology,2,80,15,8,14,0,52.45
+Cohort 1,C1-T12,Y3R1,3,1,ADULT,Adult mental health,2,80,15,0,16,0,51.85
+Cohort 1,C1-T13,Y3R1,3,1,ADULT,Adult mental health,2,80,15,0,16,0,51.85
+Cohort 1,C1-T14,Y3R1,3,1,NEURO,Neuropsychology,2,80,15,8,16,0,52.65
+Cohort 1,C1-T15,Y3R1,3,1,CAMHS,Child and family,2,80,15,0,15,0,51.75
+Cohort 1,C1-T16,Y3R1,3,1,HEALTH,Health psychology,2,80,15,8,16,0,52.65
+Cohort 1,C1-T17,Y3R1,3,1,HEALTH,Health psychology,2,80,15,8,15,0,52.55
+Cohort 1,C1-T18,Y3R1,3,1,OLDER,Older people,2,80,15,8,16,0,52.65
+Cohort 1,C1-T19,Y3R1,3,1,NEURO,Neuropsychology,2,80,15,8,15,0,52.55
+Cohort 1,C1-T20,Y3R1,3,1,CAMHS,Child and family,1,95,15,0,15,0,60.75
+Cohort 1,C1-T21,Y3R1,3,1,HEALTH,Health psychology,2,80,15,8,16,0,52.65
+Cohort 1,C1-T22,Y3R1,3,1,OLDER,Older people,1,95,15,8,15,0,61.55
+Cohort 1,C1-T23,Y3R1,3,1,CAMHS,Child and family,1,95,15,0,16,5,61.1
+Cohort 1,C1-T24,Y3R1,3,1,NEURO,Neuropsychology,1,95,15,8,11,0,61.15
+Cohort 1,C1-T25,Y3R1,3,1,OLDER,Older people,1,95,15,8,8,0,60.85
+Cohort 1,C1-T26,Y3R1,3,1,LD,Learning disabilities,2,80,15,0,16,0,51.85
+Cohort 1,C1-T27,Y3R1,3,1,CAMHS,Child and family,2,80,15,0,14,0,51.65
+Cohort 1,C1-T28,Y3R1,3,1,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 1,C1-T29,Y3R1,3,1,ADULT,Adult mental health,1,95,15,0,15,0,60.75
+Cohort 1,C1-T30,Y3R1,3,1,CAMHS,Child and family,1,95,15,0,15,0,60.75
+Cohort 1,C1-T31,Y3R1,3,1,OLDER,Older people,2,80,15,8,15,0,52.55
+Cohort 1,C1-T32,Y3R1,3,1,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 1,C1-T33,Y3R1,3,1,LD,Learning disabilities,2,80,15,0,12,0,51.45
+Cohort 1,C1-T34,Y3R1,3,1,HEALTH,Health psychology,1,95,15,8,15,0,61.55
+Cohort 1,C1-T35,Y3R1,3,1,NEURO,Neuropsychology,1,95,15,8,12,0,61.25
+Cohort 1,C1-T36,Y3R1,3,1,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 1,C1-T37,Y3R1,3,1,HEALTH,Health psychology,2,80,15,8,15,0,52.55
+Cohort 1,C1-T38,Y3R1,3,1,HEALTH,Health psychology,2,80,15,8,10,0,52.05
+Cohort 1,C1-T39,Y3R1,3,1,OLDER,Older people,1,95,15,8,5,0,60.55
+Cohort 1,C1-T40,Y3R1,3,1,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 1,C1-T41,Y3R1,3,1,ADULT,Adult mental health,1,95,15,0,16,5,61.1
+Cohort 1,C1-T42,Y3R1,3,1,OLDER,Older people,1,95,15,8,16,0,61.65
+Cohort 1,C1-T43,Y3R1,3,1,LD,Learning disabilities,2,80,15,0,12,0,51.45
+Cohort 1,C1-T44,Y3R1,3,1,OLDER,Older people,2,80,15,8,12,0,52.25
+Cohort 1,C1-T45,Y3R1,3,1,OLDER,Older people,3,65,15,8,16,0,43.65
+Cohort 1,C1-T46,Y3R1,3,1,NEURO,Neuropsychology,1,95,15,8,16,0,61.65
+Cohort 1,C1-T47,Y3R1,3,1,NEURO,Neuropsychology,1,95,15,8,15,0,61.55
+Cohort 1,C1-T48,Y3R1,3,1,HEALTH,Health psychology,1,95,15,8,16,0,61.65
+Cohort 1,C1-T49,Y3R1,3,1,LD,Learning disabilities,2,80,15,0,15,0,51.75
+Cohort 1,C1-T50,Y3R1,3,1,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 2,C2-T01,Y3R1,3,1,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 2,C2-T02,Y3R1,3,1,NEURO,Neuropsychology,1,95,15,8,16,0,61.65
+Cohort 2,C2-T03,Y3R1,3,1,NEURO,Neuropsychology,1,95,15,8,14,0,61.45
+Cohort 2,C2-T04,Y3R1,3,1,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 2,C2-T05,Y3R1,3,1,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 2,C2-T06,Y3R1,3,1,ADULT,Adult mental health,2,80,15,0,16,0,51.85
+Cohort 2,C2-T07,Y3R1,3,1,CAMHS,Child and family,1,95,15,0,15,5,61.0
+Cohort 2,C2-T08,Y3R1,3,1,HEALTH,Health psychology,2,80,15,8,15,0,52.55
+Cohort 2,C2-T09,Y3R1,3,1,CAMHS,Child and family,1,95,15,0,11,0,60.35
+Cohort 2,C2-T10,Y3R1,3,1,ADULT,Adult mental health,2,80,15,0,14,0,51.65
+Cohort 2,C2-T11,Y3R1,3,1,LD,Learning disabilities,2,80,15,0,14,0,51.65
+Cohort 2,C2-T12,Y3R1,3,1,OLDER,Older people,1,95,15,8,15,0,61.55
+Cohort 2,C2-T13,Y3R1,3,1,LD,Learning disabilities,2,80,15,0,16,0,51.85
+Cohort 2,C2-T14,Y3R1,3,1,NEURO,Neuropsychology,1,95,15,8,16,0,61.65
+Cohort 2,C2-T15,Y3R1,3,1,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 2,C2-T16,Y3R1,3,1,OLDER,Older people,3,65,15,8,14,0,43.45
+Cohort 2,C2-T17,Y3R1,3,1,OLDER,Older people,1,95,15,8,15,0,61.55
+Cohort 2,C2-T18,Y3R1,3,1,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 2,C2-T19,Y3R1,3,1,OLDER,Older people,2,80,15,8,16,0,52.65
+Cohort 2,C2-T20,Y3R1,3,1,OLDER,Older people,1,95,15,8,10,0,61.05
+Cohort 2,C2-T21,Y3R1,3,1,ADULT,Adult mental health,2,80,15,0,15,0,51.75
+Cohort 2,C2-T22,Y3R1,3,1,ADULT,Adult mental health,1,95,15,0,15,0,60.75
+Cohort 2,C2-T23,Y3R1,3,1,NEURO,Neuropsychology,1,95,15,8,15,5,61.8
+Cohort 2,C2-T24,Y3R1,3,1,LD,Learning disabilities,1,95,15,0,14,0,60.65
+Cohort 2,C2-T25,Y3R1,3,1,ADULT,Adult mental health,2,80,15,0,10,0,51.25
+Cohort 2,C2-T26,Y3R1,3,1,ADULT,Adult mental health,2,80,15,0,15,0,51.75
+Cohort 2,C2-T27,Y3R1,3,1,OLDER,Older people,2,80,15,8,15,0,52.55
+Cohort 2,C2-T28,Y3R1,3,1,HEALTH,Health psychology,1,95,15,8,16,0,61.65
+Cohort 2,C2-T29,Y3R1,3,1,NEURO,Neuropsychology,1,95,15,8,16,0,61.65
+Cohort 2,C2-T30,Y3R1,3,1,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 2,C2-T31,Y3R1,3,1,CAMHS,Child and family,1,95,15,0,11,0,60.35
+Cohort 2,C2-T32,Y3R1,3,1,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 2,C2-T33,Y3R1,3,1,HEALTH,Health psychology,1,95,15,8,12,0,61.25
+Cohort 2,C2-T34,Y3R1,3,1,ADULT,Adult mental health,1,95,15,0,4,0,59.65
+Cohort 2,C2-T35,Y3R1,3,1,HEALTH,Health psychology,1,95,15,8,16,0,61.65
+Cohort 2,C2-T36,Y3R1,3,1,NEURO,Neuropsychology,2,80,15,8,16,0,52.65
+Cohort 2,C2-T37,Y3R1,3,1,NEURO,Neuropsychology,1,95,15,8,15,0,61.55
+Cohort 2,C2-T38,Y3R1,3,1,HEALTH,Health psychology,1,95,15,8,5,0,60.55
+Cohort 2,C2-T39,Y3R1,3,1,ADULT,Adult mental health,1,95,15,0,12,0,60.45
+Cohort 2,C2-T40,Y3R1,3,1,OLDER,Older people,2,80,15,8,11,0,52.15
+Cohort 2,C2-T41,Y3R1,3,1,LD,Learning disabilities,2,80,15,0,16,5,52.1
+Cohort 2,C2-T42,Y3R1,3,1,CAMHS,Child and family,2,80,15,0,16,0,51.85
+Cohort 2,C2-T43,Y3R1,3,1,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 2,C2-T44,Y3R1,3,1,HEALTH,Health psychology,1,95,15,8,16,0,61.65
+Cohort 2,C2-T45,Y3R1,3,1,ADULT,Adult mental health,2,80,15,0,16,0,51.85
+Cohort 2,C2-T46,Y3R1,3,1,HEALTH,Health psychology,1,95,15,8,12,0,61.25
+Cohort 2,C2-T47,Y3R1,3,1,OLDER,Older people,1,95,15,8,11,0,61.15
+Cohort 2,C2-T48,Y3R1,3,1,ADULT,Adult mental health,1,95,15,0,15,0,60.75
+Cohort 2,C2-T49,Y3R1,3,1,HEALTH,Health psychology,1,95,15,8,15,0,61.55
+Cohort 2,C2-T50,Y3R1,3,1,ADULT,Adult mental health,2,80,15,0,12,0,51.45
+Cohort 3,C3-T01,Y3R1,3,1,ADULT,Adult mental health,2,80,15,0,15,0,51.75
+Cohort 3,C3-T02,Y3R1,3,1,HEALTH,Health psychology,1,95,15,8,15,0,61.55
+Cohort 3,C3-T03,Y3R1,3,1,NEURO,Neuropsychology,1,95,15,8,16,0,61.65
+Cohort 3,C3-T04,Y3R1,3,1,CAMHS,Child and family,1,95,15,0,11,0,60.35
+Cohort 3,C3-T05,Y3R1,3,1,CAMHS,Child and family,1,95,15,0,15,0,60.75
+Cohort 3,C3-T06,Y3R1,3,1,LD,Learning disabilities,1,95,15,0,15,0,60.75
+Cohort 3,C3-T07,Y3R1,3,1,OLDER,Older people,1,95,15,8,16,5,61.9
+Cohort 3,C3-T08,Y3R1,3,1,NEURO,Neuropsychology,1,95,15,8,11,0,61.15
+Cohort 3,C3-T09,Y3R1,3,1,NEURO,Neuropsychology,2,80,15,8,16,0,52.65
+Cohort 3,C3-T10,Y3R1,3,1,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 3,C3-T11,Y3R1,3,1,ADULT,Adult mental health,1,95,15,0,15,0,60.75
+Cohort 3,C3-T12,Y3R1,3,1,ADULT,Adult mental health,2,80,15,0,14,0,51.65
+Cohort 3,C3-T13,Y3R1,3,1,OLDER,Older people,1,95,15,8,14,0,61.45
+Cohort 3,C3-T14,Y3R1,3,1,CAMHS,Child and family,2,80,15,0,16,0,51.85
+Cohort 3,C3-T15,Y3R1,3,1,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 3,C3-T16,Y3R1,3,1,OLDER,Older people,1,95,15,8,16,0,61.65
+Cohort 3,C3-T17,Y3R1,3,1,LD,Learning disabilities,1,95,15,0,14,0,60.65
+Cohort 3,C3-T18,Y3R1,3,1,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 3,C3-T19,Y3R1,3,1,ADULT,Adult mental health,1,95,15,0,15,0,60.75
+Cohort 3,C3-T20,Y3R1,3,1,HEALTH,Health psychology,2,80,15,8,16,0,52.65
+Cohort 3,C3-T21,Y3R1,3,1,LD,Learning disabilities,2,80,15,0,14,0,51.65
+Cohort 3,C3-T22,Y3R1,3,1,NEURO,Neuropsychology,1,95,15,8,15,0,61.55
+Cohort 3,C3-T23,Y3R1,3,1,CAMHS,Child and family,1,95,15,0,7,5,60.2
+Cohort 3,C3-T24,Y3R1,3,1,OLDER,Older people,1,95,15,8,16,0,61.65
+Cohort 3,C3-T25,Y3R1,3,1,HEALTH,Health psychology,1,95,15,8,14,0,61.45
+Cohort 3,C3-T26,Y3R1,3,1,ADULT,Adult mental health,2,80,15,0,15,0,51.75
+Cohort 3,C3-T27,Y3R1,3,1,LD,Learning disabilities,2,80,15,0,12,0,51.45
+Cohort 3,C3-T28,Y3R1,3,1,NEURO,Neuropsychology,1,95,15,8,16,0,61.65
+Cohort 3,C3-T29,Y3R1,3,1,OLDER,Older people,1,95,15,8,16,0,61.65
+Cohort 3,C3-T30,Y3R1,3,1,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 3,C3-T31,Y3R1,3,1,LD,Learning disabilities,2,80,15,0,12,0,51.45
+Cohort 3,C3-T32,Y3R1,3,1,HEALTH,Health psychology,1,95,15,8,16,0,61.65
+Cohort 3,C3-T33,Y3R1,3,1,OLDER,Older people,2,80,15,8,15,0,52.55
+Cohort 3,C3-T34,Y3R1,3,1,OLDER,Older people,2,80,15,8,16,0,52.65
+Cohort 3,C3-T35,Y3R1,3,1,HEALTH,Health psychology,2,80,15,8,15,0,52.55
+Cohort 3,C3-T36,Y3R1,3,1,CAMHS,Child and family,1,95,15,0,11,0,60.35
+Cohort 3,C3-T37,Y3R1,3,1,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 3,C3-T38,Y3R1,3,1,CAMHS,Child and family,2,80,15,0,12,0,51.45
+Cohort 3,C3-T39,Y3R1,3,1,NEURO,Neuropsychology,1,95,15,8,16,0,61.65
+Cohort 3,C3-T40,Y3R1,3,1,NEURO,Neuropsychology,1,95,15,8,16,0,61.65
+Cohort 3,C3-T41,Y3R1,3,1,NEURO,Neuropsychology,1,95,15,8,16,5,61.9
+Cohort 3,C3-T42,Y3R1,3,1,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 3,C3-T43,Y3R1,3,1,NEURO,Neuropsychology,2,80,15,8,16,0,52.65
+Cohort 3,C3-T44,Y3R1,3,1,OLDER,Older people,1,95,15,8,14,0,61.45
+Cohort 3,C3-T45,Y3R1,3,1,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 3,C3-T46,Y3R1,3,1,OLDER,Older people,1,95,15,8,16,0,61.65
+Cohort 3,C3-T47,Y3R1,3,1,ADULT,Adult mental health,1,95,15,0,12,0,60.45
+Cohort 3,C3-T48,Y3R1,3,1,NEURO,Neuropsychology,2,80,15,8,12,0,52.25
+Cohort 3,C3-T49,Y3R1,3,1,LD,Learning disabilities,1,95,15,0,14,0,60.65
+Cohort 3,C3-T50,Y3R1,3,1,NEURO,Neuropsychology,2,80,15,8,16,0,52.65
+Cohort 1,C1-T01,Y3R2,3,2,ADULT,Adult mental health,1,95,15,0,14,0,60.65
+Cohort 1,C1-T02,Y3R2,3,2,CAMHS,Child and family,4,50,15,0,16,0,33.85
+Cohort 1,C1-T03,Y3R2,3,2,NEURO,Neuropsychology,1,95,15,8,16,0,61.65
+Cohort 1,C1-T04,Y3R2,3,2,CAMHS,Child and family,5,35,15,0,15,0,24.75
+Cohort 1,C1-T05,Y3R2,3,2,LD,Learning disabilities,1,95,15,0,11,0,60.35
+Cohort 1,C1-T06,Y3R2,3,2,LD,Learning disabilities,5,35,15,0,15,0,24.75
+Cohort 1,C1-T07,Y3R2,3,2,NEURO,Neuropsychology,1,95,15,8,15,5,61.8
+Cohort 1,C1-T08,Y3R2,3,2,NEURO,Neuropsychology,2,80,15,8,16,0,52.65
+Cohort 1,C1-T09,Y3R2,3,2,HEALTH,Health psychology,1,95,15,8,11,0,61.15
+Cohort 1,C1-T10,Y3R2,3,2,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 1,C1-T11,Y3R2,3,2,HEALTH,Health psychology,5,35,15,8,15,0,25.55
+Cohort 1,C1-T12,Y3R2,3,2,CAMHS,Child and family,4,50,15,0,16,0,33.85
+Cohort 1,C1-T13,Y3R2,3,2,NEURO,Neuropsychology,6,20,15,8,16,0,16.65
+Cohort 1,C1-T14,Y3R2,3,2,HEALTH,Health psychology,4,50,15,8,14,0,34.45
+Cohort 1,C1-T15,Y3R2,3,2,ADULT,Adult mental health,4,50,15,0,16,0,33.85
+Cohort 1,C1-T16,Y3R2,3,2,ADULT,Adult mental health,4,50,15,0,15,0,33.75
+Cohort 1,C1-T17,Y3R2,3,2,CAMHS,Child and family,4,50,15,0,16,0,33.85
+Cohort 1,C1-T18,Y3R2,3,2,LD,Learning disabilities,5,35,15,0,16,0,24.85
+Cohort 1,C1-T19,Y3R2,3,2,ADULT,Adult mental health,3,65,15,0,14,0,42.65
+Cohort 1,C1-T20,Y3R2,3,2,HEALTH,Health psychology,1,95,15,8,13,0,61.35
+Cohort 1,C1-T21,Y3R2,3,2,NEURO,Neuropsychology,3,65,15,8,12,0,43.25
+Cohort 1,C1-T22,Y3R2,3,2,HEALTH,Health psychology,1,95,15,8,15,0,61.55
+Cohort 1,C1-T23,Y3R2,3,2,NEURO,Neuropsychology,1,95,15,8,6,5,60.9
+Cohort 1,C1-T24,Y3R2,3,2,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 1,C1-T25,Y3R2,3,2,ADULT,Adult mental health,1,95,15,0,7,0,59.95
+Cohort 1,C1-T26,Y3R2,3,2,NEURO,Neuropsychology,2,80,15,8,12,0,52.25
+Cohort 1,C1-T27,Y3R2,3,2,ADULT,Adult mental health,3,65,15,0,16,0,42.85
+Cohort 1,C1-T28,Y3R2,3,2,NEURO,Neuropsychology,2,80,15,8,16,0,52.65
+Cohort 1,C1-T29,Y3R2,3,2,OLDER,Older people,1,95,15,8,10,0,61.05
+Cohort 1,C1-T30,Y3R2,3,2,ADULT,Adult mental health,1,95,15,0,15,0,60.75
+Cohort 1,C1-T31,Y3R2,3,2,LD,Learning disabilities,6,20,15,0,16,0,15.85
+Cohort 1,C1-T32,Y3R2,3,2,NEURO,Neuropsychology,1,95,15,8,16,0,61.65
+Cohort 1,C1-T33,Y3R2,3,2,CAMHS,Child and family,4,50,15,0,16,0,33.85
+Cohort 1,C1-T34,Y3R2,3,2,OLDER,Older people,1,95,15,8,15,0,61.55
+Cohort 1,C1-T35,Y3R2,3,2,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 1,C1-T36,Y3R2,3,2,NEURO,Neuropsychology,1,95,15,8,15,0,61.55
+Cohort 1,C1-T37,Y3R2,3,2,LD,Learning disabilities,5,35,15,0,8,0,24.05
+Cohort 1,C1-T38,Y3R2,3,2,NEURO,Neuropsychology,2,80,15,8,15,0,52.55
+Cohort 1,C1-T39,Y3R2,3,2,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 1,C1-T40,Y3R2,3,2,NEURO,Neuropsychology,2,80,15,8,14,0,52.45
+Cohort 1,C1-T41,Y3R2,3,2,LD,Learning disabilities,1,95,15,0,12,5,60.7
+Cohort 1,C1-T42,Y3R2,3,2,LD,Learning disabilities,1,95,15,0,10,0,60.25
+Cohort 1,C1-T43,Y3R2,3,2,ADULT,Adult mental health,3,65,15,0,15,0,42.75
+Cohort 1,C1-T44,Y3R2,3,2,NEURO,Neuropsychology,2,80,15,8,16,0,52.65
+Cohort 1,C1-T45,Y3R2,3,2,HEALTH,Health psychology,1,95,15,8,12,0,61.25
+Cohort 1,C1-T46,Y3R2,3,2,LD,Learning disabilities,1,95,15,0,12,0,60.45
+Cohort 1,C1-T47,Y3R2,3,2,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 1,C1-T48,Y3R2,3,2,NEURO,Neuropsychology,1,95,15,8,16,0,61.65
+Cohort 1,C1-T49,Y3R2,3,2,HEALTH,Health psychology,5,35,15,8,8,0,24.85
+Cohort 1,C1-T50,Y3R2,3,2,OLDER,Older people,1,95,15,8,15,0,61.55
+Cohort 2,C2-T01,Y3R2,3,2,HEALTH,Health psychology,1,95,15,8,13,0,61.35
+Cohort 2,C2-T02,Y3R2,3,2,HEALTH,Health psychology,1,95,15,8,16,0,61.65
+Cohort 2,C2-T03,Y3R2,3,2,HEALTH,Health psychology,1,95,15,8,16,0,61.65
+Cohort 2,C2-T04,Y3R2,3,2,OLDER,Older people,1,95,15,8,15,0,61.55
+Cohort 2,C2-T05,Y3R2,3,2,HEALTH,Health psychology,1,95,15,8,16,0,61.65
+Cohort 2,C2-T06,Y3R2,3,2,LD,Learning disabilities,5,35,15,0,14,0,24.65
+Cohort 2,C2-T07,Y3R2,3,2,NEURO,Neuropsychology,1,95,15,8,14,5,61.7
+Cohort 2,C2-T08,Y3R2,3,2,CAMHS,Child and family,5,35,15,0,13,0,24.55
+Cohort 2,C2-T09,Y3R2,3,2,OLDER,Older people,1,95,15,8,15,0,61.55
+Cohort 2,C2-T10,Y3R2,3,2,LD,Learning disabilities,5,35,15,0,14,0,24.65
+Cohort 2,C2-T11,Y3R2,3,2,CAMHS,Child and family,3,65,15,0,16,0,42.85
+Cohort 2,C2-T12,Y3R2,3,2,LD,Learning disabilities,1,95,15,0,7,0,59.95
+Cohort 2,C2-T13,Y3R2,3,2,HEALTH,Health psychology,5,35,15,8,15,0,25.55
+Cohort 2,C2-T14,Y3R2,3,2,OLDER,Older people,1,95,15,8,15,0,61.55
+Cohort 2,C2-T15,Y3R2,3,2,NEURO,Neuropsychology,1,95,15,8,16,0,61.65
+Cohort 2,C2-T16,Y3R2,3,2,HEALTH,Health psychology,1,95,15,8,14,0,61.45
+Cohort 2,C2-T17,Y3R2,3,2,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 2,C2-T18,Y3R2,3,2,LD,Learning disabilities,1,95,15,0,12,0,60.45
+Cohort 2,C2-T19,Y3R2,3,2,LD,Learning disabilities,6,20,15,0,16,0,15.85
+Cohort 2,C2-T20,Y3R2,3,2,CAMHS,Child and family,1,95,15,0,15,0,60.75
+Cohort 2,C2-T21,Y3R2,3,2,HEALTH,Health psychology,6,20,15,8,15,0,16.55
+Cohort 2,C2-T22,Y3R2,3,2,OLDER,Older people,1,95,15,8,16,0,61.65
+Cohort 2,C2-T23,Y3R2,3,2,OLDER,Older people,1,95,15,8,14,5,61.7
+Cohort 2,C2-T24,Y3R2,3,2,OLDER,Older people,1,95,15,8,14,0,61.45
+Cohort 2,C2-T25,Y3R2,3,2,HEALTH,Health psychology,6,20,15,8,16,0,16.65
+Cohort 2,C2-T26,Y3R2,3,2,CAMHS,Child and family,5,35,15,0,16,0,24.85
+Cohort 2,C2-T27,Y3R2,3,2,ADULT,Adult mental health,3,65,15,0,15,0,42.75
+Cohort 2,C2-T28,Y3R2,3,2,CAMHS,Child and family,1,95,15,0,14,0,60.65
+Cohort 2,C2-T29,Y3R2,3,2,HEALTH,Health psychology,1,95,15,8,16,0,61.65
+Cohort 2,C2-T30,Y3R2,3,2,ADULT,Adult mental health,1,95,15,0,12,0,60.45
+Cohort 2,C2-T31,Y3R2,3,2,NEURO,Neuropsychology,1,95,15,8,10,0,61.05
+Cohort 2,C2-T32,Y3R2,3,2,ADULT,Adult mental health,1,95,15,0,15,0,60.75
+Cohort 2,C2-T33,Y3R2,3,2,NEURO,Neuropsychology,1,95,15,8,12,0,61.25
+Cohort 2,C2-T34,Y3R2,3,2,CAMHS,Child and family,1,95,15,0,14,0,60.65
+Cohort 2,C2-T35,Y3R2,3,2,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 2,C2-T36,Y3R2,3,2,OLDER,Older people,2,80,15,8,15,0,52.55
+Cohort 2,C2-T37,Y3R2,3,2,OLDER,Older people,1,95,15,8,16,0,61.65
+Cohort 2,C2-T38,Y3R2,3,2,NEURO,Neuropsychology,1,95,15,8,16,0,61.65
+Cohort 2,C2-T39,Y3R2,3,2,OLDER,Older people,1,95,15,8,15,0,61.55
+Cohort 2,C2-T40,Y3R2,3,2,HEALTH,Health psychology,6,20,15,8,15,0,16.55
+Cohort 2,C2-T41,Y3R2,3,2,OLDER,Older people,2,80,15,8,15,5,52.8
+Cohort 2,C2-T42,Y3R2,3,2,HEALTH,Health psychology,5,35,15,8,13,0,25.35
+Cohort 2,C2-T43,Y3R2,3,2,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 2,C2-T44,Y3R2,3,2,LD,Learning disabilities,1,95,15,0,10,0,60.25
+Cohort 2,C2-T45,Y3R2,3,2,CAMHS,Child and family,5,35,15,0,16,0,24.85
+Cohort 2,C2-T46,Y3R2,3,2,LD,Learning disabilities,1,95,15,0,6,0,59.85
+Cohort 2,C2-T47,Y3R2,3,2,ADULT,Adult mental health,1,95,15,0,14,0,60.65
+Cohort 2,C2-T48,Y3R2,3,2,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 2,C2-T49,Y3R2,3,2,NEURO,Neuropsychology,1,95,15,8,15,0,61.55
+Cohort 2,C2-T50,Y3R2,3,2,CAMHS,Child and family,5,35,15,0,16,0,24.85
+Cohort 3,C3-T01,Y3R2,3,2,NEURO,Neuropsychology,6,20,15,8,16,0,16.65
+Cohort 3,C3-T02,Y3R2,3,2,CAMHS,Child and family,1,95,15,0,12,0,60.45
+Cohort 3,C3-T03,Y3R2,3,2,CAMHS,Child and family,1,95,15,0,14,0,60.65
+Cohort 3,C3-T04,Y3R2,3,2,OLDER,Older people,1,95,15,8,5,0,60.55
+Cohort 3,C3-T05,Y3R2,3,2,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 3,C3-T06,Y3R2,3,2,OLDER,Older people,1,95,15,8,4,0,60.45
+Cohort 3,C3-T07,Y3R2,3,2,ADULT,Adult mental health,1,95,15,0,16,5,61.1
+Cohort 3,C3-T08,Y3R2,3,2,HEALTH,Health psychology,1,95,15,8,12,0,61.25
+Cohort 3,C3-T09,Y3R2,3,2,ADULT,Adult mental health,3,65,15,0,16,0,42.85
+Cohort 3,C3-T10,Y3R2,3,2,HEALTH,Health psychology,1,95,15,8,15,0,61.55
+Cohort 3,C3-T11,Y3R2,3,2,LD,Learning disabilities,1,95,15,0,15,0,60.75
+Cohort 3,C3-T12,Y3R2,3,2,NEURO,Neuropsychology,2,80,15,8,14,0,52.45
+Cohort 3,C3-T13,Y3R2,3,2,ADULT,Adult mental health,1,95,15,0,16,0,60.85
+Cohort 3,C3-T14,Y3R2,3,2,OLDER,Older people,2,80,15,8,12,0,52.25
+Cohort 3,C3-T15,Y3R2,3,2,CAMHS,Child and family,1,95,15,0,13,0,60.55
+Cohort 3,C3-T16,Y3R2,3,2,HEALTH,Health psychology,1,95,15,8,12,0,61.25
+Cohort 3,C3-T17,Y3R2,3,2,ADULT,Adult mental health,3,65,15,0,16,0,42.85
+Cohort 3,C3-T18,Y3R2,3,2,CAMHS,Child and family,1,95,15,0,15,0,60.75
+Cohort 3,C3-T19,Y3R2,3,2,OLDER,Older people,1,95,15,8,10,0,61.05
+Cohort 3,C3-T20,Y3R2,3,2,CAMHS,Child and family,4,50,15,0,15,0,33.75
+Cohort 3,C3-T21,Y3R2,3,2,ADULT,Adult mental health,4,50,15,0,12,0,33.45
+Cohort 3,C3-T22,Y3R2,3,2,HEALTH,Health psychology,1,95,15,8,6,0,60.65
+Cohort 3,C3-T23,Y3R2,3,2,OLDER,Older people,1,95,15,8,16,5,61.9
+Cohort 3,C3-T24,Y3R2,3,2,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 3,C3-T25,Y3R2,3,2,CAMHS,Child and family,1,95,15,0,14,0,60.65
+Cohort 3,C3-T26,Y3R2,3,2,CAMHS,Child and family,6,20,15,0,15,0,15.75
+Cohort 3,C3-T27,Y3R2,3,2,ADULT,Adult mental health,4,50,15,0,14,0,33.65
+Cohort 3,C3-T28,Y3R2,3,2,OLDER,Older people,1,95,15,8,6,0,60.65
+Cohort 3,C3-T29,Y3R2,3,2,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 3,C3-T30,Y3R2,3,2,HEALTH,Health psychology,1,95,15,8,14,0,61.45
+Cohort 3,C3-T31,Y3R2,3,2,ADULT,Adult mental health,3,65,15,0,15,0,42.75
+Cohort 3,C3-T32,Y3R2,3,2,CAMHS,Child and family,1,95,15,0,15,0,60.75
+Cohort 3,C3-T33,Y3R2,3,2,CAMHS,Child and family,6,20,15,0,15,0,15.75
+Cohort 3,C3-T34,Y3R2,3,2,LD,Learning disabilities,5,35,15,0,11,0,24.35
+Cohort 3,C3-T35,Y3R2,3,2,NEURO,Neuropsychology,3,65,15,8,15,0,43.55
+Cohort 3,C3-T36,Y3R2,3,2,OLDER,Older people,1,95,15,8,9,0,60.95
+Cohort 3,C3-T37,Y3R2,3,2,NEURO,Neuropsychology,1,95,15,8,15,0,61.55
+Cohort 3,C3-T38,Y3R2,3,2,ADULT,Adult mental health,3,65,15,0,10,0,42.25
+Cohort 3,C3-T39,Y3R2,3,2,LD,Learning disabilities,1,95,15,0,16,0,60.85
+Cohort 3,C3-T40,Y3R2,3,2,OLDER,Older people,1,95,15,8,15,0,61.55
+Cohort 3,C3-T41,Y3R2,3,2,ADULT,Adult mental health,1,95,15,0,15,5,61.0
+Cohort 3,C3-T42,Y3R2,3,2,ADULT,Adult mental health,3,65,15,0,16,0,42.85
+Cohort 3,C3-T43,Y3R2,3,2,OLDER,Older people,2,80,15,8,5,0,51.55
+Cohort 3,C3-T44,Y3R2,3,2,HEALTH,Health psychology,1,95,15,8,12,0,61.25
+Cohort 3,C3-T45,Y3R2,3,2,OLDER,Older people,1,95,15,8,2,0,60.25
+Cohort 3,C3-T46,Y3R2,3,2,NEURO,Neuropsychology,1,95,15,8,15,0,61.55
+Cohort 3,C3-T47,Y3R2,3,2,OLDER,Older people,1,95,15,8,15,0,61.55
+Cohort 3,C3-T48,Y3R2,3,2,HEALTH,Health psychology,4,50,15,8,16,0,34.65
+Cohort 3,C3-T49,Y3R2,3,2,CAMHS,Child and family,1,95,15,0,16,0,60.85
+Cohort 3,C3-T50,Y3R2,3,2,OLDER,Older people,2,80,15,8,10,0,52.05
