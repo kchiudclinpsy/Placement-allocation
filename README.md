@@ -1,6 +1,8 @@
 # Updated Longitudinal Placement Allocation Tool
 
 This organisation-neutral toolkit models three concurrent cohorts of 50 trainees. Each trainee completes two placements per year over three years, giving six placement episodes per trainee and 900 allocation episodes across a full pathway.
+<img width="1024" height="572" alt="b10ff3c9-8405-4bb3-87b8-f8dc27c76f73" src="https://github.com/user-attachments/assets/906ed722-b14d-4567-b21c-bfc4f8994621" />
+
 
 ## Start here
 
