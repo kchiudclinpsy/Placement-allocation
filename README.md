@@ -19,6 +19,8 @@ It shows:
 
 The examples use made-up names and codes rather than real people or organisations.
 
+<img width="1024" height="572" alt="b10ff3c9-8405-4bb3-87b8-f8dc27c76f73" src="https://github.com/user-attachments/assets/ef03692e-c0be-44d1-afca-1e4cd679f587" />
+
 ## Why does it exist?
 
 The project is intended to help people learn and discuss:
