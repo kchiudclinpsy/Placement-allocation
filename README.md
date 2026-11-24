@@ -1,8 +1,12 @@
-# Updated Longitudinal Placement Allocation Tool
+# Placement Allocation Tool — Educational Demonstration
 
-This organisation-neutral toolkit models three concurrent cohorts of 50 trainees. Each trainee completes two placements per year over three years, giving six placement episodes per trainee and 900 allocation episodes across a full pathway.
+> **Educational and training demonstration only**
+>
+> This repository is a synthetic proof of concept for educational and training purposes. It has **never been used** to allocate real trainee placements or to make decisions about real people. The data, outputs and recommendations are demonstration artifacts only and must not be used for operational allocation or clinical decision-making.
+
+This organisation-neutral toolkit models three concurrent cohorts of 50 trainees. Each trainee completes two placements per year over three years, giving six placement episodes per trainee and 900 synthetic allocation records.
+
 <img width="1024" height="572" alt="b10ff3c9-8405-4bb3-87b8-f8dc27c76f73" src="https://github.com/user-attachments/assets/906ed722-b14d-4567-b21c-bfc4f8994621" />
-
 
 ## Start here
 
@@ -56,7 +60,7 @@ The `longitudinal_demo_outputs` folder contains synthetic outputs for:
 - 6 placements per trainee;
 - 900 allocation episodes.
 
-These demonstrate the structure only and are not intended as performance benchmarks.
+These demonstrate the structure only and are not intended as performance benchmarks or for real-world allocation.
 
 ## Regenerate the demonstration
 
@@ -106,4 +110,4 @@ Core placements should remain competency-led. Specialist preferences should only
 
 ## Governance
 
-The optimizer provides decision support, not automatic approval. Reviewers should record overrides and reasons in the workbook. Detailed health information, diagnoses, clinical narratives and personally identifying information must remain outside the allocation dataset in appropriately controlled systems.
+The optimizer provides decision support, not automatic approval. Reviewers should record overrides and reasons in the workbook. Detailed health information, diagnoses, clinical narratives and personal data should not be entered into the demonstration workbook or operational allocation files.
