@@ -1,5 +1,5 @@
 placement_id,placement_name,specialty,capacity,postcode,requires_car,minimum_travel_minutes
-P001,CAMHS Service,CAMHS,2,NR4 7TJ,No,30
-P002,Adult Mental Health Team,Adult,2,NR1 1AA,No,35
-P003,Neuropsychology Service,Neuro,1,NR6 5BE,Yes,55
-P004,Learning Disability Team,LD,1,NR2 3TU,No,40
+P001,CAMHS Service,CAMHS,2,ZONE-A,No,30
+P002,Adult Mental Health Team,Adult,2,ZONE-B,No,35
+P003,Neuropsychology Service,Neuro,1,ZONE-C,Yes,55
+P004,Learning Disability Team,LD,1,ZONE-D,No,40
