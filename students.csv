@@ -1,7 +1,7 @@
-student_id,student_name,pref1,pref2,pref3,pref4,max_travel_minutes,car_owner,required_specialty,special_circumstances
-S001,Alice Jones,P001,P002,P003,P004,60,Yes,,No
-S002,Bob Smith,P002,P001,P003,P004,45,No,,No
-S003,Carol Brown,P001,P003,P002,P004,60,Yes,CAMHS,No
-S004,David Green,P003,P002,P001,P004,90,Yes,Neuro,No
-S005,Emma White,P001,P002,P004,P003,45,No,,Yes
-S006,Frank Black,P002,P001,P003,P004,60,Yes,,No
+demo_id,pref1,pref2,pref3,pref4,max_travel_minutes,car_access,required_specialty
+D001,P001,P002,P003,P004,60,Yes,
+D002,P002,P001,P003,P004,45,No,
+D003,P001,P003,P002,P004,60,Yes,CAMHS
+D004,P003,P002,P001,P004,90,Yes,Neuro
+D005,P001,P002,P004,P003,45,No,
+D006,P002,P001,P003,P004,60,Yes,
